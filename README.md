@@ -26,14 +26,14 @@ gantt
     %% Mobile
     %% --------------------------
     section MobiSys*
-    MobiSys '26† :mobisys-review, 2025-12-09, 95d
+    MobiSys '26† :mobisys-review, 2025-12-09, 88d
     
     section MobiCom*
-    MobiCom '25 (2) :mobicom-review2, 2025-03-18, 90d
-    MobiCom '26 (1) :mobicom-review1, 2025-08-29, 90d
+    MobiCom '25 (2) :mobicom-review2, 2025-03-18, 98d
+    MobiCom '26 (1) :mobicom-review1, 2025-08-29, 103d
 
     section SenSys*
-    SenSys '26† :sensys-review, 2025-11-14, 95d
+    SenSys '26† :sensys-review, 2025-11-14, 68d
 
     section UbiComp*
     UbiComp '25 (2) :ubicomp-review3, 2025-02-01, 60d
@@ -41,7 +41,7 @@ gantt
     UbiComp '25 (1) :ubicomp-review1, 2025-11-01, 60d
 
     section MobiHoc
-    MobiHoc '25 :mobihoc-review, 2025-04-09, 60d
+    MobiHoc '25 :mobihoc-review, 2025-04-09, 111d
 
     section PerCom
     PerCom '25 :percom-review, 2025-12-09, 60d
