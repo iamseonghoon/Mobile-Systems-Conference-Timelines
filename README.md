@@ -12,7 +12,7 @@ Peer review timelines of major conferences in mobile computing, computer network
 "gantt": {
       "fontSize": 16,
       "sectionFontSize": 18,
-      "leftPadding": 100,
+      "leftPadding": 150,
       "displayMode": "compact",
       "barHeight": 30,
       "barGap": 10
