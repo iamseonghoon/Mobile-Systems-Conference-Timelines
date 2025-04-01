@@ -22,16 +22,16 @@ gantt
     %% Mobile
     %% --------------------------
     section MobiSys*
-    '26 :mobisys-review, 2025-12-09, 60d
+    MobiSys '26 :mobisys-review, 2025-12-09, 60d
     
     section MobiCom*
-    Winter ('25) :mobicom-review1, 2025-12-09, 60d
-    Summer ('26) :mobicom-review2, 2025-12-09, 60d
+    Winter (MobiCom '25) :mobicom-review1, 2025-12-09, 60d
+    Summer (MobiCom '26) :mobicom-review2, 2025-12-09, 60d
 
     section UbiComp*
-    Feb. ('25) :ubicomp-review1,    2025-02-01, 60d
-    May. ('25) :ubicomp-review2,    2025-05-01, 60d
-    Nov. ('26) :ubicomp-review3,    2025-11-01, 60d
+    Feb. (UbiComp '25) :ubicomp-review1,    2025-02-01, 60d
+    May. (UbiComp '25) :ubicomp-review2,    2025-05-01, 60d
+    Nov. (UbiComp '26) :ubicomp-review3,    2025-11-01, 60d
 
     section MobiHoc
     '26        :mobihoc-review,    2025-12-09, 60d
