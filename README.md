@@ -85,27 +85,31 @@ gantt
     EuroSys '26 :eurosys-review1, 2025-05-15, 99d
     EuroSys '26 :eurosys-review2, 2025-09-25, 127d
 
-
     %% --------------------------
     %% Embedded / EDA
     %% --------------------------
     section EMSOFT*
-    EMSOFT '25 :emsoft-review, 2025-03-30, 105d
+    EMSOFT '25 :emsoft25-review, 2025-03-30, 105d
 
     section DAC*
-    DAC '26† :mobisys-review, 2025-11-19, 99d
-
-
-    %% --------------------------
-    %% Multimedia
-    %% --------------------------
-    section MM
-    MM '26 :mm-review, 2025-04-11, 84d
+    DAC '26† :mobisys26-review, 2025-11-19, 99d
 
     %% --------------------------
     %% Web
     %% --------------------------
     section TheWebConf*
-    TheWebConf '26† :thewebconf-review, 2025-10-14, 98d
+    TheWebConf '26† :thewebconf26-review, 2025-10-14, 98d
+
+    %% --------------------------
+    %% Multimedia
+    %% --------------------------
+    section MM
+    MM '26 :mm26-review, 2025-04-11, 84d
+
+    %% --------------------------
+    %% ML
+    %% --------------------------
+    section MLSys
+    MLSys '26† :mlsys26-review, 2025-10-31, 102d
 ```
 
