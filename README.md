@@ -1,5 +1,7 @@
 # Awesome-CS-Conferences
-Conferences about mobile systems, computer networks, operating systems
+Conferences about mobile systems, computer networks, and operating systems.
+
+\* indicates top conferences listed on [csrankings.org](https://csrankings.org).
 
 
 ```mermaid
