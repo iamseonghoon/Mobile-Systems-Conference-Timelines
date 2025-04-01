@@ -1,5 +1,5 @@
 # Mobile-Systems-Conference-Timelines 📅
-Peer review timelines of major conferences in mobile systems, computer networks, operating systems, etc. (from submission to final notification).
+This document collects peer review timelines (from submission to final notification) of top conferences directly related to mobile computing and systems, as well as related venues in areas such as computer networks, operating systems, and embedded systems.
 
 \* Top conferences listed on [csrankings.org](https://csrankings.org).  
 † Estimated schedules based on prior years, as the official call for papers has not yet been released.
