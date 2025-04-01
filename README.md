@@ -28,17 +28,14 @@ gantt
     '25 Winter      :mobicom-review1,    2025-12-09, 60d
     '26 Summer       :mobicom-review2,    2025-12-09, 60d
 
-    section MobiSys*
-    '26        :mobisys-review,    2025-12-09, 60d
-
     section UbiComp*
-    '26        :mobisys-review,    2025-12-09, 60d
+    '26        :ubicomp-review,    2025-12-09, 60d
 
     section MobiHoc
-    '26        :mobisys-review,    2025-12-09, 60d
+    '26        :mobihoc-review,    2025-12-09, 60d
 
     section PerCom
-    '26        :mobisys-review,    2025-12-09, 60d
+    '26        :percom-review,    2025-12-09, 60d
 
     %% --------------------------
     %% Network
