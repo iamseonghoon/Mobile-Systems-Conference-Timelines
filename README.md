@@ -77,7 +77,7 @@ gantt
     section Multimedia
     MM (Submission)             :mm-sub,    2025-04-11, 7d
     MM (Presentation)           :mm-pres,   after mm-sub, 2d
-
+```
 
 timeline
     title Conference Submission Timeline (2025)
