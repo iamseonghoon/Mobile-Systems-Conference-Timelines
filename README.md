@@ -25,12 +25,12 @@ gantt
     %% --------------------------
     %% Mobile
     %% --------------------------
-    section MobiSys*
-    MobiSys '26† :mobisys-review, 2025-12-09, 88d
-    
     section MobiCom*
     MobiCom '25 (2) :mobicom-review2, 2025-03-18, 98d
     MobiCom '26 (1) :mobicom-review1, 2025-08-29, 103d
+
+    section MobiSys*
+    MobiSys '26† :mobisys-review, 2025-12-09, 88d
 
     section SenSys*
     SenSys '26† :sensys-review, 2025-11-14, 68d
@@ -67,19 +67,21 @@ gantt
     %% OS, CA
     %% --------------------------
     section SOSP*
-    SOSP '26 :mobisys-review, 2025-12-09, 95d
+    SOSP '25 :sosp-review, 2025-04-17, 89d
 
     section OSDI*
-    OSDI '26 :mobisys-review, 2025-12-09, 95d
+    OSDI '26 :osdi-review, 2025-12-10, 105d
 
     section ASPLOS*
-    ASPLOS '26 :mobisys-review, 2025-12-09, 95d
+    ASPLOS '26 (1) :asplos-review1, 2025-03-12, 104d
+    ASPLOS '26 (2) :asplos-review2, 2025-08-20, 96d
 
     section ATC*
-    ATC '26 :mobisys-review, 2025-12-09, 95d
+    ATC '25 :atc-review, 2025-17-09, 101d
 
     section EuroSys*
-    EuroSys '26 :mobisys-review, 2025-12-09, 95d
+    EuroSys '26 :eurosys-review1, 2025-05-15, 99d
+    EuroSys '26 :eurosys-review2, 2025-09-25, 127d
 
 
     %% --------------------------
@@ -96,12 +98,12 @@ gantt
     %% Multimedia
     %% --------------------------
     section MM
-    MM '26 :mm-review, 2025-12-09, 95d
+    MM '26 :mm-review, 2025-04-11, 84d
 
     %% --------------------------
     %% Web
     %% --------------------------
     section TheWebConf*
-    TheWebConf '26 :thewebconf-review, 2025-12-09, 95d
+    TheWebConf '26† :thewebconf-review, 2025-10-14, 98d
 ```
 
