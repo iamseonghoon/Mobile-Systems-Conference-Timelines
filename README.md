@@ -2,15 +2,12 @@
 Conferences about mobile systems, computer networks, operating systems
 
 
-# Awesome-CS-Conferences
-Conferences about mobile systems, computer networks, operating systems
-
 ```mermaid
 %%{init: {'theme': 'forest',
 'themeVariables': { 'fontSize': '12px', 'fontFamily': 'sans-serif'},
 "gantt": {
-      "fontSize": 12,
-      "sectionFontSize": 12
+      "fontSize": 14,
+      "sectionFontSize": 14
   }}}%%
 gantt
     dateFormat  YYYY-MM-DD
