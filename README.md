@@ -18,7 +18,7 @@ Conferences about mobile systems, computer networks, and operating systems.
   }}}%%
 gantt
     dateFormat  YYYY-MM-DD
-    tickInterval 2month
+    tickInterval 1month
     title Submission & Review Timeline (2025~2026)
 
     %% --------------------------
