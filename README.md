@@ -16,10 +16,6 @@ gantt
     tickInterval 2month
     title Target Conferences (2025~2026)
 
-    %% Dummy section
-    section Timeline Anchor
-    Start Marker :start, 2025-01-01, 0d
-
     %% --------------------------
     %% Mobile
     %% --------------------------
