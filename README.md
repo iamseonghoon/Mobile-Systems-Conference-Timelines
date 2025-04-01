@@ -1,5 +1,5 @@
 # Awesome-CS-Conferences
-Peer review timelines of major conferences in mobile systems, computer networks, and operating systems.
+Peer review timelines of major conferences in mobile computing, computer networks, and operating systems.
 
 \* Top conferences listed on [csrankings.org](https://csrankings.org).  
 † Estimated schedules based on prior years, as the official call for papers has not yet been released.
