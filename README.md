@@ -1,5 +1,5 @@
-# Awesome-CS-Conferences
-Peer review timelines of major conferences in mobile computing, computer networks, and operating systems.
+# Systems-Conference-Timelines 📅
+Peer review timelines of major conferences in mobile computing, computer networks, and operating systems (from submission to final notification).
 
 \* Top conferences as listed on [csrankings.org](https://csrankings.org).  
 † Estimated schedules based on prior years, as the official call for papers has not yet been released.
@@ -91,12 +91,12 @@ gantt
     %% Multimedia
     %% --------------------------
     section MM
-    MobiSys '26 :mobisys-review, 2025-12-09, 95d
+    MM '26 :mm-review, 2025-12-09, 95d
 
     %% --------------------------
     %% Web
     %% --------------------------
-    section TheWebConf
-    MobiSys '26 :mobisys-review, 2025-12-09, 95d
+    section TheWebConf*
+    TheWebConf '26 :thewebconf-review, 2025-12-09, 95d
 ```
 
