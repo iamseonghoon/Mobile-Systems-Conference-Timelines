@@ -7,6 +7,7 @@ Conferences about mobile systems, computer networks, operating systems
 'themeVariables': {
       'fontSize': '18px',
       'fontFamily': 'sans-serif',
+      'lineColor': '#F8B229',
       'gridColor': '#eeeeee'},
 "gantt": {
       "fontSize": 18,
