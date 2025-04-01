@@ -16,7 +16,7 @@ Conferences about mobile systems, computer networks, operating systems
 gantt
     dateFormat  YYYY-MM-DD
     tickInterval 2month
-    title Target Conferences (2025~2026)
+    title Submission & Review Timeline (2025~2026)
 
     %% --------------------------
     %% Mobile
