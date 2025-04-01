@@ -6,9 +6,10 @@ Conferences about mobile systems, computer networks, operating systems
 %%{init: {'theme': 'base',
 'themeVariables': {
       'fontSize': '18px',
-      'fontFamily': 'sans-serif',
+      'primaryTextColor': '#fff',
+      'primaryBorderColor': '#7C0000',
       'lineColor': '#F8B229',
-      'gridColor': '#eeeeee'},
+      'secondaryColor': '#006100',},
 "gantt": {
       "fontSize": 18,
       "sectionFontSize": 18,
