@@ -15,7 +15,7 @@ Peer review timelines of major conferences in mobile systems, computer networks,
       "leftPadding": 150,
       "displayMode": "compact",
       "barHeight": 30,
-      "topPadding": 20
+      "topPadding": 20,
       "barGap": 20
   }}}%%
 gantt
