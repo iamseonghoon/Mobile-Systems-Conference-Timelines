@@ -36,9 +36,10 @@ gantt
     SenSys '26† :sensys-review, 2025-11-14, 68d
 
     section UbiComp*
-    UbiComp '25 (2) :ubicomp-review3, 2025-02-01, 60d
-    UbiComp '25 (3) :ubicomp-review2, 2025-05-01, 60d
-    UbiComp '25 (1) :ubicomp-review1, 2025-11-01, 60d
+    UbiComp '25 (2) :ubicomp25-review3, 2025-02-01, 60d
+    UbiComp '25 (3) :ubicomp25-review2, 2025-05-01, 60d
+    UbiComp '25 (1) :ubicomp25-review1, 2025-11-01, 60d
+    UbiComp '26† (2) :ubicomp26-review3, 2025-02-01, 60d
 
     section MobiHoc
     MobiHoc '25 :mobihoc-review, 2025-04-09, 111d
