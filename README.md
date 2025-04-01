@@ -1,7 +1,7 @@
 # Systems-Conference-Timelines 📅
 Peer review timelines of major conferences in mobile computing, computer networks, and operating systems (from submission to final notification).
 
-\* Top conferences as listed on [csrankings.org](https://csrankings.org).  
+\* Top conferences listed on [csrankings.org](https://csrankings.org).  
 † Estimated schedules based on prior years, as the official call for papers has not yet been released.
 
 
@@ -67,29 +67,29 @@ gantt
     %% OS, CA
     %% --------------------------
     section SOSP*
-    MobiSys '26 :mobisys-review, 2025-12-09, 95d
+    SOSP '26 :mobisys-review, 2025-12-09, 95d
 
     section OSDI*
-    MobiSys '26 :mobisys-review, 2025-12-09, 95d
+    OSDI '26 :mobisys-review, 2025-12-09, 95d
 
     section ASPLOS*
-    MobiSys '26 :mobisys-review, 2025-12-09, 95d
+    ASPLOS '26 :mobisys-review, 2025-12-09, 95d
 
     section ATC*
-    MobiSys '26 :mobisys-review, 2025-12-09, 95d
+    ATC '26 :mobisys-review, 2025-12-09, 95d
 
     section EuroSys*
-    MobiSys '26 :mobisys-review, 2025-12-09, 95d
+    EuroSys '26 :mobisys-review, 2025-12-09, 95d
 
 
     %% --------------------------
     %% Embedded / EDA
     %% --------------------------
     section EMSOFT*
-    MobiSys '26 :mobisys-review, 2025-12-09, 95d
+    EMSOFT '25 :emsoft-review, 2025-03-30, 105d
 
     section DAC*
-    MobiSys '26 :mobisys-review, 2025-12-09, 95d
+    DAC '26† :mobisys-review, 2025-11-19, 99d
 
 
     %% --------------------------
