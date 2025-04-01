@@ -6,7 +6,6 @@ Conferences about mobile systems, computer networks, operating systems
 %%{init: {'theme': 'base',
 'themeVariables': {
       'fontSize': '18px',
-      'primaryTextColor': '#fff',
       'primaryBorderColor': '#7C0000',
       'lineColor': '#F8B229',
       'secondaryColor': '#006100'},
