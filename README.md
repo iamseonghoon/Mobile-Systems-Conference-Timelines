@@ -7,7 +7,6 @@ Conferences about mobile systems, computer networks, operating systems
 실제 일정 및 기간은 사용자의 요구 사항에 맞춰 **적절히 수정**해 주세요.
 
 ```mermaid
-%%{init: {'theme': 'forest', 'themeVariables': { 'fontSize': '14px', 'fontFamily': 'sans-serif'}}}%%
 gantt
     dateFormat  YYYY-MM-DD
     title Target Conferences (예시: 2025~2026)
