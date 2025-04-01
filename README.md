@@ -1,18 +1,9 @@
 # Awesome-CS-Conferences
 Conferences about mobile systems, computer networks, operating systems
 
-# Target Conferences & Top Conferences
-
-아래 간트차트는 학회별 제출(Submission)·리뷰(Review)·발표(Presentation) 일정을 시각적으로 파악하기 위한 예시입니다.  
-실제 일정 및 기간은 사용자의 요구 사항에 맞춰 **적절히 수정**해 주세요.
-
-# Target Conferences & Top Conferences
-
-아래 간트차트는 학회별 제출(Submission)·리뷰(Review)·발표(Presentation) 일정을 시각적으로 파악하기 위한 예시입니다.  
-실제 일정 및 기간은 사용자의 요구 사항에 맞춰 **적절히 수정**해 주세요.
 
 ```mermaid
-%%{init: {'theme': 'forest', 'themeVariables': { 'fontSize': '14px', 'fontFamily': 'sans-serif'}}}%%
+%%{init: {'theme': 'forest', 'themeVariables': { 'fontSize': '24px', 'fontFamily': 'sans-serif'}}}%%
 gantt
     dateFormat  YYYY-MM-DD
     title Target Conferences (예시: 2025~2026)
