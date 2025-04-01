@@ -8,7 +8,8 @@ Conferences about mobile systems, computer networks, operating systems
       'fontSize': '18px',
       'primaryBorderColor': '#7C0000',
       'lineColor': '#F8B229',
-      'secondaryColor': '#006100'},
+      'secondaryColor': '#006100',
+      'gridColor': '#f0f0f0'},
 "gantt": {
       "fontSize": 18,
       "sectionFontSize": 18,
