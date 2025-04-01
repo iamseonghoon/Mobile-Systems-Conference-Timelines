@@ -4,7 +4,10 @@ Conferences about mobile systems, computer networks, operating systems
 
 ```mermaid
 %%{init: {'theme': 'neutral',
-'themeVariables': { 'fontSize': '18px', 'fontFamily': 'sans-serif'},
+'themeVariables': {
+      'fontSize': '18px',
+      'fontFamily': 'sans-serif',
+      'gridColor': '#eeeeee'},
 "gantt": {
       "fontSize": 18,
       "sectionFontSize": 18,
