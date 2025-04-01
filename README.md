@@ -3,13 +3,9 @@ Conferences about mobile systems, computer networks, operating systems
 
 
 ```mermaid
-%%{init: {'theme': 'base',
+%%{init: {'theme': 'neutral',
 'themeVariables': {
-      'fontSize': '18px',
-      'primaryBorderColor': '#7C0000',
-      'lineColor': '#F8B229',
-      'secondaryColor': '#006100',
-      'gridColor': '#f0f0f0'},
+      'fontSize': '18px'},
 "gantt": {
       "fontSize": 18,
       "sectionFontSize": 18,
