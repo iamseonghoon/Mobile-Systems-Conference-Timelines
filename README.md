@@ -18,7 +18,7 @@ gantt
     %% --------------------------
     section Mobile
     MobiSys* (Submission)       :ms-sub,    2025-03-18, 7d
-                              :ms-pres,   after ms-sub, 2d
+    ""                            :ms-pres,   after ms-sub, 2d
     MobiCom* (Submission)       :mc-sub,    2025-11-14, 7d
     MobiCom* (Presentation)     :mc-pres,   after mc-sub, 2d
     UbiComp (Submission)        :ubi-sub,   2025-09-19, 7d
