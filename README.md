@@ -16,16 +16,9 @@ gantt
     %% --------------------------
     %% Mobile
     %% --------------------------
-    section Mobile
-    MobiSys* (Submission)       :ms-sub,    2025-03-18, 7d
-    ""                            :ms-pres,   after ms-sub, 2d
-    MobiCom* (Submission)       :mc-sub,    2025-11-14, 7d
-    MobiCom* (Presentation)     :mc-pres,   after mc-sub, 2d
-    UbiComp (Submission)        :ubi-sub,   2025-09-19, 7d
-    UbiComp (Presentation)      :ubi-pres,  after ubi-sub, 2d
-    PerCom (Submission)         :per-sub,   2025-12-09, 7d
-    PerCom (Review)             :per-rev,   after per-sub, 14d
-    PerCom (Presentation)       :per-pres,  after per-rev, 2d
+    section MobiSys*
+    Review          :mobisys-review,    2025-12-09, 7d
+    Conference      :mobisys-conf,    2025-06-21, 7d
 
     %% --------------------------
     %% Sensor
@@ -77,27 +70,5 @@ gantt
     section Multimedia
     MM (Submission)             :mm-sub,    2025-04-11, 7d
     MM (Presentation)           :mm-pres,   after mm-sub, 2d
-```
-
-```mermaid
-timeline
-    title Conference Submission Timeline (2025)
-    2025-01-14 : ATC**
-    2025-03-01 : ASPLOS*
-    2025-03-18 : MobiSys*
-    2025-04-11 : MM
-    2025-04-17 : SOSP*
-    2025-04-25 : NSDI*
-    2025-05-21 : EuroSys**
-    2025-07-31 : SenSys*
-    2025-07-31 : INFOCOM
-    2025-08-29 : EMSOFT*
-    2025-09-19 : UbiComp
-    2025-09-22 : DATE
-    2025-10-04 : SIGCOMM*
-    2025-11-14 : MobiCom*
-    2025-11-19 : DAC*
-    2025-12-09 : PerCom
-    2025-12-10 : OSDI*
 ```
 
