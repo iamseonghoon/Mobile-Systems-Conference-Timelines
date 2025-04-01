@@ -20,7 +20,7 @@ Peer review timelines of major conferences in mobile computing, computer network
 gantt
     dateFormat  YYYY-MM-DD
     tickInterval 1month
-    title Submission & Review Timeline (2025~2026)
+    title Submission & Review Timelines (2025~2026)
 
     %% --------------------------
     %% Mobile
@@ -44,19 +44,24 @@ gantt
     MobiHoc '25 :mobihoc-review, 2025-04-09, 111d
 
     section PerCom
-    PerCom '25 :percom-review, 2025-12-09, 60d
+    PerCom '26† :percom-review, 2025-12-09, 77d
 
     %% --------------------------
     %% Network
     %% --------------------------
     section SIGCOMM*
-    MobiSys '26 :mobisys-review, 2025-12-09, 95d
+    SIGCOMM '25 :sigcomm-review, 2025-01-31, 88d
 
     section NSDI*
-    MobiSys '26 :mobisys-review, 2025-12-09, 95d
+    NSDI '26 (1) :nsdi-review1, 2025-04-25, 90d
+    NSDI '26 (2) :nsdi-review2, 2025-09-18, 82d
 
     section INFOCOM
-    MobiSys '26 :mobisys-review, 2025-12-09, 95d
+    INFOCOM '26† :infocom-review, 2025-07-31, 128d
+
+    section CoNEXT
+    CoNEXT '26 (1)† :conext-review1, 2025-12-05, 120d
+    CoNEXT '25 (2)† :conext-review2, 2025-07-14, 60d
 
     %% --------------------------
     %% OS, CA
