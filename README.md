@@ -22,21 +22,23 @@ gantt
     %% Mobile
     %% --------------------------
     section MobiSys*
-    Review ('26)        :mobisys-review,    2025-12-09, 7d
-    Conference ('25)      :mobisys-conf,    2025-06-21, 7d
+    '26        :mobisys-review,    2025-12-09, 7d
     
     section MobiCom*
-    Review ('25 Winter)       :mobicom-review1,    2025-12-09, 7d
-    Review ('26 Summer)       :mobicom-review2,    2025-12-09, 7d
-    Conference ('25)          :mobicom-conf,    2025-11-21, 5d
+    '25 Winter      :mobicom-review1,    2025-12-09, 7d
+    '26 Summer       :mobicom-review2,    2025-12-09, 7d
 
-    section SenSys*
-    Review ('26)        :sens-sub,  2025-07-31, 7d
-    Conference ('25)      :sens-pres, after sens-sub, 2d
+    section MobiSys*
+    '26        :mobisys-review,    2025-12-09, 7d
+
+    section UbiComp
+    '26        :mobisys-review,    2025-12-09, 7d
 
     section MobiHoc
-    Review ('26)        :sens-sub,  2025-07-31, 7d
-    Conference ('25)      :sens-pres, after sens-sub, 2d
+    '26        :mobisys-review,    2025-12-09, 7d
+
+    section PerCom
+    '26        :mobisys-review,    2025-12-09, 7d
 
     %% --------------------------
     %% Network
