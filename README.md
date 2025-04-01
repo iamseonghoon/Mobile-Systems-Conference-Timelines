@@ -13,7 +13,7 @@ Conferences about mobile systems, computer networks, and operating systems.
       "sectionFontSize": 18,
       "leftPadding": 200,
       "displayMode": "compact",
-      "barHeight": 50,
+      "barHeight": 30,
       "barGap": 10
   }}}%%
 gantt
