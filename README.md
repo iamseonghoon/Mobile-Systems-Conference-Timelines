@@ -9,8 +9,7 @@ Conferences about mobile systems, computer networks, operating systems
 "gantt": {
       "fontSize": 18,
       "sectionFontSize": 18,
-      "leftPadding": 200,
-      "gridLineStartPadding": 100
+      "leftPadding": 200
   }}}%%
 gantt
     dateFormat  YYYY-MM-DD
