@@ -3,7 +3,7 @@ Conferences about mobile systems, computer networks, operating systems
 
 
 ```mermaid
-%%{init: {'theme': 'base',
+%%{init: {'theme': 'neutral',
 'themeVariables': {
       'fontSize': '18px',
       'fontFamily': 'sans-serif',
