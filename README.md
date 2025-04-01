@@ -1,9 +1,6 @@
 # Awesome-CS-Conferences
 Conferences about mobile systems, computer networks, operating systems
 
-아래 간트차트는 첨부된 표에 나열된 학회(예: MobiSys, MobiCom 등)와 제출/발표 일정을 기반으로 작성되었습니다.
-실제 일정은 2025년 기준이 아닐 수 있으므로, **필요에 따라 날짜를 수정**해 주세요.
-
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
