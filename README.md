@@ -9,7 +9,6 @@ Conferences about mobile systems, computer networks, operating systems
 "gantt": {
       "fontSize": 16,
       "sectionFontSize": 18,
-      "numberSectionStyles": 18,
       "leftPadding": 200,
       "displayMode": "compact",
       "barHeight": 30
