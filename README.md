@@ -1,5 +1,5 @@
 # Systems-Conference-Timelines 📅
-Peer review timelines of major conferences in mobile computing, computer networks, and operating systems (from submission to final notification).
+Peer review timelines of major conferences in mobile systems, computer networks, operating systems, etc. (from submission to final notification).
 
 \* Top conferences listed on [csrankings.org](https://csrankings.org).  
 † Estimated schedules based on prior years, as the official call for papers has not yet been released.
