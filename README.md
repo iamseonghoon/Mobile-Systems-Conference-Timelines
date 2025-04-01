@@ -25,19 +25,19 @@ gantt
     MobiSys '26 :mobisys-review, 2025-12-09, 95d
     
     section MobiCom*
-    MobiCom '25 (2) :mobicom-review1, 2025-03-18, 60d
-    MobiCom '26 (1) :mobicom-review2, 2025-08-29, 60d
+    MobiCom '25 (2) :mobicom-review2, 2025-03-18, 60d
+    MobiCom '26 (1) :mobicom-review1, 2025-08-29, 60d
 
     section UbiComp*
-    Feb. (UbiComp '25) :ubicomp-review1,    2025-02-01, 60d
-    May. (UbiComp '25) :ubicomp-review2,    2025-05-01, 60d
-    Nov. (UbiComp '26) :ubicomp-review3,    2025-11-01, 60d
+    UbiComp '25 (2) :ubicomp-review3, 2025-02-01, 60d
+    UbiComp '25 (3) :ubicomp-review2, 2025-05-01, 60d
+    UbiComp '25 (1) :ubicomp-review1, 2025-11-01, 60d
 
     section MobiHoc
-    '26        :mobihoc-review,    2025-12-09, 60d
+    MobiHoc '25        :mobihoc-review, 2025-12-09, 60d
 
     section PerCom
-    '26        :percom-review,    2025-12-09, 60d
+    PerCom '25        :percom-review, 2025-12-09, 60d
 
     %% --------------------------
     %% Network
