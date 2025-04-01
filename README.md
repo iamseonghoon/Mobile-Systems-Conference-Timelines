@@ -1,7 +1,7 @@
 # Awesome-CS-Conferences
 Peer review timelines of major conferences in mobile computing, computer networks, and operating systems.
 
-\* Top conferences listed on [csrankings.org](https://csrankings.org).  
+\* Top conferences as listed on [csrankings.org](https://csrankings.org).  
 † Estimated schedules based on prior years, as the official call for papers has not yet been released.
 
 
@@ -31,6 +31,9 @@ gantt
     section MobiCom*
     MobiCom '25 (2) :mobicom-review2, 2025-03-18, 90d
     MobiCom '26 (1) :mobicom-review1, 2025-08-29, 90d
+
+    section SenSys*
+    SenSys '26† :sensys-review, 2025-11-14, 95d
 
     section UbiComp*
     UbiComp '25 (2) :ubicomp-review3, 2025-02-01, 60d
