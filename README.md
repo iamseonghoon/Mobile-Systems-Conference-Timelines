@@ -7,8 +7,9 @@ Conferences about mobile systems, computer networks, operating systems
 'themeVariables': {
       'fontSize': '18px'},
 "gantt": {
-      "fontSize": 18,
+      "fontSize": 16,
       "sectionFontSize": 18,
+      "numberSectionStyles": 18,
       "leftPadding": 200,
       "displayMode": "compact",
       "barHeight": 30
@@ -29,6 +30,7 @@ gantt
     '26 Summer       :mobicom-review2,    2025-12-09, 60d
 
     section UbiComp*
+    '26        :ubicomp-review,    2025-12-09, 60d
     '26        :ubicomp-review,    2025-12-09, 60d
 
     section MobiHoc
