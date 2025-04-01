@@ -13,7 +13,7 @@ Conferences about mobile systems, computer networks, operating systems
   }}}%%
 gantt
     dateFormat  YYYY-MM-DD
-    thickInterval 4month
+    tickInterval 4month
     title Target Conferences (2025~2026)
 
     %% --------------------------
