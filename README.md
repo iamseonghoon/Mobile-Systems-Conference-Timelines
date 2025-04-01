@@ -6,7 +6,13 @@ Conferences about mobile systems, computer networks, operating systems
 아래 간트차트는 학회별 제출(Submission)·리뷰(Review)·발표(Presentation) 일정을 시각적으로 파악하기 위한 예시입니다.  
 실제 일정 및 기간은 사용자의 요구 사항에 맞춰 **적절히 수정**해 주세요.
 
+# Target Conferences & Top Conferences
+
+아래 간트차트는 학회별 제출(Submission)·리뷰(Review)·발표(Presentation) 일정을 시각적으로 파악하기 위한 예시입니다.  
+실제 일정 및 기간은 사용자의 요구 사항에 맞춰 **적절히 수정**해 주세요.
+
 ```mermaid
+%%{init: {'theme': 'forest', 'themeVariables': { 'fontSize': '14px', 'fontFamily': 'sans-serif'}}}%%
 gantt
     dateFormat  YYYY-MM-DD
     title Target Conferences (예시: 2025~2026)
@@ -40,22 +46,22 @@ gantt
     NSDI* (Presentation)        :nsdi-pres, after nsdi-sub, 2d
     SIGCOMM* (Submission)       :sig-sub,   2025-10-04, 7d
     SIGCOMM* (Presentation)     :sig-pres,  after sig-sub, 2d
-    INFOCOM (Submission)        :info-sub,  2025-XX-XX, 7d
+    INFOCOM (Submission)        :info-sub,  2025-07-31, 7d
     INFOCOM (Presentation)      :info-pres, after info-sub, 2d
 
     %% --------------------------
     %% OS 계열 학회
     %% --------------------------
     section Operating Systems
-    OSDI* (Submission)          :osdi-sub,  2025-XX-XX, 7d
+    OSDI* (Submission)          :osdi-sub,  2025-12-10, 7d
     OSDI* (Presentation)        :osdi-pres, after osdi-sub, 2d
-    SOSP* (Submission)          :sosp-sub,  2025-XX-XX, 7d
+    SOSP* (Submission)          :sosp-sub,  2025-04-17, 7d
     SOSP* (Presentation)        :sosp-pres, after sosp-sub, 2d
-    ATC** (Submission)          :atc-sub,   2025-XX-XX, 7d
+    ATC** (Submission)          :atc-sub,   2025-01-14, 7d
     ATC** (Presentation)        :atc-pres,  after atc-sub, 2d
-    EuroSys** (Submission)      :euros-sub, 2025-XX-XX, 7d
+    EuroSys** (Submission)      :euros-sub, 2025-05-21, 7d
     EuroSys** (Presentation)    :euros-pres,after euros-sub, 2d
-    ASPLOS* (Submission)        :aspl-sub,  2025-XX-XX, 7d
+    ASPLOS* (Submission)        :aspl-sub,  2025-03-01, 7d
     ASPLOS* (Presentation)      :aspl-pres, after aspl-sub, 2d
 
     %% --------------------------
@@ -64,16 +70,16 @@ gantt
     section Embedded / EDA
     EMSOFT* (Submission)        :ems-sub,   2025-08-29, 7d
     EMSOFT* (Presentation)      :ems-pres,  after ems-sub, 2d
-    DAC* (Submission)           :dac-sub,   2025-XX-XX, 7d
+    DAC* (Submission)           :dac-sub,   2025-11-19, 7d
     DAC* (Presentation)         :dac-pres,  after dac-sub, 2d
-    DATE (Submission)           :date-sub,  2025-XX-XX, 7d
+    DATE (Submission)           :date-sub,  2025-09-22, 7d
     DATE (Presentation)         :date-pres, after date-sub, 2d
 
     %% --------------------------
     %% Multimedia
     %% --------------------------
     section Multimedia
-    MM (Submission)             :mm-sub,    2025-XX-XX, 7d
+    MM (Submission)             :mm-sub,    2025-04-11, 7d
     MM (Presentation)           :mm-pres,   after mm-sub, 2d
 
 
