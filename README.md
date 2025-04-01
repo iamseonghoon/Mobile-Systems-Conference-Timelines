@@ -82,8 +82,8 @@ gantt
     ATC '26† :atc26-review, 2026-01-14, 101d
 
     section EuroSys*
-    EuroSys '26 :eurosys-review1, 2025-05-15, 99d
-    EuroSys '26 :eurosys-review2, 2025-09-25, 127d
+    EuroSys '26 (1) :eurosys-review1, 2025-05-15, 99d
+    EuroSys '26 (2) :eurosys-review2, 2025-09-25, 127d
 
     %% --------------------------
     %% Embedded / EDA
