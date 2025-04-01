@@ -79,6 +79,7 @@ gantt
     MM (Presentation)           :mm-pres,   after mm-sub, 2d
 ```
 
+```mermaid
 timeline
     title Conference Submission Timeline (2025)
     2025-01-14 : ATC**
