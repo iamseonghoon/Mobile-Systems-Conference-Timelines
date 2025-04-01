@@ -26,16 +26,12 @@ gantt
     Review ('26)        :mobisys-review,    2025-12-09, 7d
     Conference ('25)      :mobisys-conf,    2025-06-21, 7d
     
-
     section MobiCom*
     Review ('25 Winter)       :mobicom-review1,    2025-12-09, 7d
     Review ('26 Summer)       :mobicom-review2,    2025-12-09, 7d
     Conference ('25)          :mobicom-conf,    2025-11-21, 5d
 
-    %% --------------------------
-    %% Sensor
-    %% --------------------------
-    section Sensor
+    section SenSys*
     SenSys* (Submission)        :sens-sub,  2025-07-31, 7d
     SenSys* (Presentation)      :sens-pres, after sens-sub, 2d
 
