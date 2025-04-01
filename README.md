@@ -7,7 +7,8 @@ Conferences about mobile systems, computer networks, operating systems
 'themeVariables': { 'fontSize': '18px', 'fontFamily': 'sans-serif'},
 "gantt": {
       "fontSize": 18,
-      "sectionFontSize": 18
+      "sectionFontSize": 18,
+      "axisFontSize": 20 
   }}}%%
 gantt
     dateFormat  YYYY-MM-DD
