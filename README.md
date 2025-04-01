@@ -13,8 +13,12 @@ Conferences about mobile systems, computer networks, operating systems
   }}}%%
 gantt
     dateFormat  YYYY-MM-DD
-    tickInterval 4month
+    tickInterval 2month
     title Target Conferences (2025~2026)
+
+    %% Dummy section
+    section Timeline Anchor
+    Start Marker :start, 2025-01-01, 0d
 
     %% --------------------------
     %% Mobile
@@ -29,8 +33,12 @@ gantt
     Conference ('25)          :mobicom-conf,    2025-11-21, 5d
 
     section SenSys*
-    SenSys* (Submission)        :sens-sub,  2025-07-31, 7d
-    SenSys* (Presentation)      :sens-pres, after sens-sub, 2d
+    Review ('26)        :sens-sub,  2025-07-31, 7d
+    Conference ('25)      :sens-pres, after sens-sub, 2d
+
+    section MobiHoc
+    Review ('26)        :sens-sub,  2025-07-31, 7d
+    Conference ('25)      :sens-pres, after sens-sub, 2d
 
     %% --------------------------
     %% Network
