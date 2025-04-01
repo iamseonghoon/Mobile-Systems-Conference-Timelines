@@ -6,7 +6,7 @@ Peer review timelines of major conferences in mobile computing, computer network
 
 
 ```mermaid
-%%{init: {'theme': 'base',
+%%{init: {'theme': 'default',
 'themeVariables': {
       'fontSize': '18px'},
 "gantt": {
