@@ -11,14 +11,20 @@ Conferences about mobile systems, computer networks, operating systems
   }}}%%
 gantt
     dateFormat  YYYY-MM-DD
-    title Target Conferences (예시: 2025~2026)
+    title Target Conferences (2025~2026)
 
     %% --------------------------
     %% Mobile
     %% --------------------------
     section MobiSys*
-    Review          :mobisys-review,    2025-12-09, 7d
-    Conference      :mobisys-conf,    2025-06-21, 7d
+    Review ('26)        :mobisys-review,    2025-12-09, 7d
+    Conference ('25)      :mobisys-conf,    2025-06-21, 7d
+    
+
+    section MobiCom*
+    Review ('25 Winter)       :mobicom-review1,    2025-12-09, 7d
+    Review ('26 Summer)       :mobicom-review2,    2025-12-09, 7d
+    Conference ('25)          :mobicom-conf,    2025-11-21, 5d
 
     %% --------------------------
     %% Sensor
