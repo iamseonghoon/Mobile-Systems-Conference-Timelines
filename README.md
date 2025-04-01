@@ -77,7 +77,7 @@ gantt
     ASPLOS '26 (2) :asplos-review2, 2025-08-20, 96d
 
     section ATC*
-    ATC '25 :atc-review, 2025-17-09, 101d
+    ATC '25 :atc-review, 2025-01-14, 101d
 
     section EuroSys*
     EuroSys '26 :eurosys-review1, 2025-05-15, 99d
