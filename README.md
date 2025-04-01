@@ -2,14 +2,17 @@
 Conferences about mobile systems, computer networks, operating systems
 
 
+# Awesome-CS-Conferences
+Conferences about mobile systems, computer networks, operating systems
+
 ```mermaid
-%%{init: {'theme': 'forest', 'themeVariables': { 'fontSize': '24px', 'fontFamily': 'sans-serif'}}}%%
+%%{init: {'theme': 'forest', 'themeVariables': { 'fontSize': '32px', 'fontFamily': 'sans-serif'}}}%%
 gantt
     dateFormat  YYYY-MM-DD
     title Target Conferences (예시: 2025~2026)
 
     %% --------------------------
-    %% Mobile 계열 학회
+    %% Mobile
     %% --------------------------
     section Mobile
     MobiSys* (Submission)       :ms-sub,    2025-03-18, 7d
@@ -19,18 +22,18 @@ gantt
     UbiComp (Submission)        :ubi-sub,   2025-09-19, 7d
     UbiComp (Presentation)      :ubi-pres,  after ubi-sub, 2d
     PerCom (Submission)         :per-sub,   2025-12-09, 7d
-    PerCom (Review)            :per-rev,   after per-sub, 14d
+    PerCom (Review)             :per-rev,   after per-sub, 14d
     PerCom (Presentation)       :per-pres,  after per-rev, 2d
 
     %% --------------------------
-    %% Sensor 계열 학회
+    %% Sensor
     %% --------------------------
     section Sensor
     SenSys* (Submission)        :sens-sub,  2025-07-31, 7d
     SenSys* (Presentation)      :sens-pres, after sens-sub, 2d
 
     %% --------------------------
-    %% Network 계열 학회
+    %% Network
     %% --------------------------
     section Network
     NSDI* (Submission)          :nsdi-sub,  2025-04-25, 7d
@@ -41,7 +44,7 @@ gantt
     INFOCOM (Presentation)      :info-pres, after info-sub, 2d
 
     %% --------------------------
-    %% OS 계열 학회
+    %% Operating Systems
     %% --------------------------
     section Operating Systems
     OSDI* (Submission)          :osdi-sub,  2025-12-10, 7d
