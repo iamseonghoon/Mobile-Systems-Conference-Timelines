@@ -6,7 +6,12 @@ Conferences about mobile systems, computer networks, operating systems
 Conferences about mobile systems, computer networks, operating systems
 
 ```mermaid
-%%{init: {'theme': 'forest', 'themeVariables': { 'fontSize': '32px', 'fontFamily': 'sans-serif'}}}%%
+%%{init: {'theme': 'forest',
+'themeVariables': { 'fontSize': '18px', 'fontFamily': 'sans-serif'},
+"gantt": {
+      "fontSize": 18,
+      "sectionFontSize": 20
+  }}}%%
 gantt
     dateFormat  YYYY-MM-DD
     title Target Conferences (예시: 2025~2026)
