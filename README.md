@@ -92,7 +92,10 @@ gantt
     EMSOFT '25 :emsoft25-review, 2025-03-30, 105d
 
     section DAC*
-    DAC '26† :mobisys26-review, 2025-11-19, 99d
+    DAC '26† :dac26-review, 2025-11-19, 99d
+
+    section ICDCS
+    ICDCS '26 :icdcs26-review, 2025-12-18, 105d
 
     %% --------------------------
     %% Web
