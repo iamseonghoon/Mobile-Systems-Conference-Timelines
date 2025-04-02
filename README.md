@@ -118,17 +118,6 @@ gantt
 
 
 ```
-%%{init: {'theme': 'neutral',
-'themeVariables': {
-      'fontSize': '18px'},
-"gantt": {
-      "fontSize": 16,
-      "sectionFontSize": 18,
-      "leftPadding": 150,
-      "displayMode": "compact",
-      "barHeight": 30,
-      "barGap": 5
-  }}}%%
 gantt
     dateFormat  YYYY-MM-DD
     tickInterval 1month
@@ -177,7 +166,7 @@ gantt
     CoNEXT '25²† :conext26-review2, 2025-07-14, 60d
 
     %% --------------------------
-    %% OS, CA
+    %% OS, Architecture
     %% --------------------------
     section SOSP*
     SOSP '25 :sosp25-review, 2025-04-17, 89d
@@ -222,7 +211,7 @@ gantt
     MM '26 :mm26-review, 2025-04-11, 84d
 
     %% --------------------------
-    %% ML
+    %% ML + Systems
     %% --------------------------
     section MLSys
     MLSys '26† :mlsys26-review, 2025-10-31, 102d
