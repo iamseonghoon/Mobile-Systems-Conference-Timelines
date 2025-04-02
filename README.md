@@ -36,7 +36,7 @@ gantt
     SenSys '26† :sensys26-review, 2025-11-14, 68d
 
     section MobiHoc
-    MobiHoc '25 :mobihoc25-review, 2025-04-09, 111d
+    [MobiHoc '25](https://www.sigmobile.org/mobihoc/2025/cfp.html) :mobihoc25-review, 2025-04-09, 111d
 
     section UbiComp*
     UbiComp '25² :ubicomp25-review3, 2025-02-01, 60d
