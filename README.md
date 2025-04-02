@@ -62,7 +62,7 @@ gantt
 
     section CoNEXT
     CoNEXT '26¹† :conext26-review1, 2025-12-05, 120d
-    CoNEXT '25²† :conext26-review2, 2025-07-14, 60d
+    CoNEXT '26²† :conext26-review2, 2025-07-14, 60d
 
     %% --------------------------
     %% OS, CA
@@ -163,7 +163,7 @@ gantt
 
     section CoNEXT
     CoNEXT '26¹† :conext26-review1, 2025-12-05, 120d
-    CoNEXT '25²† :conext26-review2, 2025-07-14, 60d
+    CoNEXT '26²† :conext26-review2, 2025-07-14, 60d
 
     %% --------------------------
     %% OS, CA
