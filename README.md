@@ -26,14 +26,17 @@ gantt
     %% Mobile
     %% --------------------------
     section MobiCom*
-    MobiCom '25² :mobicom-review2, 2025-03-18, 98d
-    MobiCom '26¹ :mobicom-review1, 2025-08-29, 103d
+    MobiCom '25² :mobicom25-review2, 2025-03-18, 98d
+    MobiCom '26¹ :mobicom26-review1, 2025-08-29, 103d
 
     section MobiSys*
-    MobiSys '26† :mobisys-review, 2025-12-09, 88d
+    MobiSys '26† :mobisys26-review, 2025-12-09, 88d
 
     section SenSys*
-    SenSys '26† :sensys-review, 2025-11-14, 68d
+    SenSys '26† :sensys26-review, 2025-11-14, 68d
+
+    section MobiHoc
+    MobiHoc '25 :mobihoc25-review, 2025-04-09, 111d
 
     section UbiComp*
     UbiComp '25² :ubicomp25-review3, 2025-02-01, 60d
@@ -41,49 +44,46 @@ gantt
     UbiComp '26¹ :ubicomp25-review1, 2025-11-01, 60d
     UbiComp '26² :ubicomp26-review3, 2026-02-01, 60d
 
-    section MobiHoc
-    MobiHoc '25 :mobihoc-review, 2025-04-09, 111d
-
     section PerCom
-    PerCom '26† :percom-review, 2025-12-09, 77d
+    PerCom '26† :percom26-review, 2025-12-09, 77d
 
     %% --------------------------
     %% Network
     %% --------------------------
     section SIGCOMM*
-    SIGCOMM '25 :sigcomm-review, 2025-01-31, 88d
+    SIGCOMM '25 :sigcomm25-review, 2025-01-31, 88d
 
     section NSDI*
     NSDI '26¹ :nsdi-review1, 2025-04-25, 90d
     NSDI '26² :nsdi-review2, 2025-09-18, 82d
 
     section INFOCOM
-    INFOCOM '26† :infocom-review, 2025-07-31, 128d
+    INFOCOM '26† :infocom26-review, 2025-07-31, 128d
 
     section CoNEXT
-    CoNEXT '26¹† :conext-review1, 2025-12-05, 120d
-    CoNEXT '25²† :conext-review2, 2025-07-14, 60d
+    CoNEXT '26¹† :conext26-review1, 2025-12-05, 120d
+    CoNEXT '25²† :conext26-review2, 2025-07-14, 60d
 
     %% --------------------------
     %% OS, CA
     %% --------------------------
     section SOSP*
-    SOSP '25 :sosp-review, 2025-04-17, 89d
+    SOSP '25 :sosp25-review, 2025-04-17, 89d
 
     section OSDI*
-    OSDI '26 :osdi-review, 2025-12-10, 105d
+    OSDI '26 :osdi26-review, 2025-12-10, 105d
 
     section ASPLOS*
-    ASPLOS '26¹ :asplos-review1, 2025-03-12, 104d
-    ASPLOS '26² :asplos-review2, 2025-08-20, 96d
+    ASPLOS '26¹ :asplos26-review1, 2025-03-12, 104d
+    ASPLOS '26² :asplos26-review2, 2025-08-20, 96d
 
     section ATC*
     ATC '25 :atc25-review, 2025-01-14, 101d
     ATC '26† :atc26-review, 2026-01-14, 101d
 
     section EuroSys*
-    EuroSys '26¹ :eurosys-review1, 2025-05-15, 99d
-    EuroSys '26² :eurosys-review2, 2025-09-25, 127d
+    EuroSys '26¹ :eurosys26-review1, 2025-05-15, 99d
+    EuroSys '26² :eurosys26-review2, 2025-09-25, 127d
 
     %% --------------------------
     %% Embedded / EDA
