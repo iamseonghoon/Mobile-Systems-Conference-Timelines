@@ -26,7 +26,7 @@ gantt
     %% Mobile
     %% --------------------------
     section MobiCom*
-    MobiCom '25² :mobicom25-review2, 2025-03-18, 98d  %% https://www.sigmobile.org/mobicom/2025/cfp.html
+    MobiCom '25² :mobicom25-review2, 2025-03-18, 98d
     MobiCom '26¹ :mobicom26-review1, 2025-08-29, 103d
 
     section MobiSys*
@@ -36,11 +36,11 @@ gantt
     SenSys '26† :sensys26-review, 2025-11-14, 68d
 
     section MobiHoc
-    MobiHoc '25 :mobihoc25-review, 2025-04-09, 111d %% https://www.sigmobile.org/mobihoc/2025/cfp.html
+    MobiHoc '25 :mobihoc25-review, 2025-04-09, 111d
 
     section UbiComp*
-    UbiComp '25² :ubicomp25-review3, 2025-02-01, 60d %% https://www.ubicomp.org/ubicomp-iswc-2025/authors/
-    UbiComp '25³ :ubicomp25-review2, 2025-05-01, 60d %% https://www.ubicomp.org/ubicomp-iswc-2025/authors/
+    UbiComp '25² :ubicomp25-review3, 2025-02-01, 60d
+    UbiComp '25³ :ubicomp25-review2, 2025-05-01, 60d
     UbiComp '26¹ :ubicomp25-review1, 2025-11-01, 60d
     UbiComp '26² :ubicomp26-review3, 2026-02-01, 60d
 
@@ -51,11 +51,11 @@ gantt
     %% Network
     %% --------------------------
     section SIGCOMM*
-    SIGCOMM '25 :sigcomm25-review, 2025-01-31, 88d %% https://conferences.sigcomm.org/sigcomm/2025/cfp/
+    SIGCOMM '25 :sigcomm25-review, 2025-01-31, 88d
 
     section NSDI*
-    NSDI '26¹ :nsdi26-review1, 2025-04-25, 90d %% https://www.usenix.org/conference/nsdi26/call-for-papers
-    NSDI '26² :nsdi26-review2, 2025-09-18, 82d %% https://www.usenix.org/conference/nsdi26/call-for-papers
+    NSDI '26¹ :nsdi26-review1, 2025-04-25, 90d
+    NSDI '26² :nsdi26-review2, 2025-09-18, 82d
 
     section INFOCOM
     INFOCOM '26† :infocom26-review, 2025-07-31, 128d
