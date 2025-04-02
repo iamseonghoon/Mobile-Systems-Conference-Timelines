@@ -125,7 +125,7 @@ gantt
 | ATC '25          | 2025-01-14         | 2025-04-07 – 2025-04-09 | ?                       | 2025-04-25          | [CFP](https://www.usenix.org/conference/atc25/call-for-papers) |
 | SIGCOMM '25      | 2025-01-31         | ?                       | ?                       | 2025-04-29          | [CFP](https://conferences.sigcomm.org/sigcomm/2025/cfp/) |
 | UbiComp '25²     | 2025-02-01         | -                       | -                       | 2025-04-01          | [CFP](https://www.ubicomp.org/ubicomp-iswc-2025/authors/) |
-| ASPLOS '26¹      | 2025-03-12         | 2025-06-09 – 2025-06-13 | ?                       | 2025-06-24          | [CFP](https://www.asplos-conference.org/asplos2026/cfp/) |
+| ASPLOS '26¹      | 2025-03-12         | 2025-06-09 – 2025-06-13 | ?                       | 2025-07-24          | [CFP](https://www.asplos-conference.org/asplos2026/cfp/) |
 | MobiCom '25      | 2025-03-18         | ?                       | ?                       | 2025-06-24          | [CFP](https://www.sigmobile.org/mobicom/2025/cfp.html) |
 | EMSOFT '25       | 2025-03-30         | -                       | 2025-06-09 – 2025-06-13 | 2025-07-13          | [CFP](https://esweek.org/emsoft-call-for-papers-page/) |
 | MobiHoc '25      | 2025-04-09         | ?                       | ?                       | 2025-07-29          | [CFP](https://www.sigmobile.org/mobihoc/2025/cfp.html) |
