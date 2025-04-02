@@ -54,8 +54,8 @@ gantt
     SIGCOMM '25 :sigcomm25-review, 2025-01-31, 88d %% https://conferences.sigcomm.org/sigcomm/2025/cfp/
 
     section NSDI*
-    NSDI '26¹ :nsdi-review1, 2025-04-25, 90d %% https://www.usenix.org/conference/nsdi26/call-for-papers
-    NSDI '26² :nsdi-review2, 2025-09-18, 82d %% https://www.usenix.org/conference/nsdi26/call-for-papers
+    NSDI '26¹ :nsdi26-review1, 2025-04-25, 90d %% https://www.usenix.org/conference/nsdi26/call-for-papers
+    NSDI '26² :nsdi26-review2, 2025-09-18, 82d %% https://www.usenix.org/conference/nsdi26/call-for-papers
 
     section INFOCOM
     INFOCOM '26† :infocom26-review, 2025-07-31, 128d
@@ -155,8 +155,8 @@ gantt
     SIGCOMM '25 :sigcomm25-review, 2025-01-31, 88d %% https://conferences.sigcomm.org/sigcomm/2025/cfp/
 
     section NSDI*
-    NSDI '26¹ :nsdi-review1, 2025-04-25, 90d %% https://www.usenix.org/conference/nsdi26/call-for-papers
-    NSDI '26² :nsdi-review2, 2025-09-18, 82d %% https://www.usenix.org/conference/nsdi26/call-for-papers
+    NSDI '26¹ :nsdi26-review1, 2025-04-25, 90d %% https://www.usenix.org/conference/nsdi26/call-for-papers
+    NSDI '26² :nsdi26-review2, 2025-09-18, 82d %% https://www.usenix.org/conference/nsdi26/call-for-papers
 
     section INFOCOM
     INFOCOM '26† :infocom26-review, 2025-07-31, 128d
