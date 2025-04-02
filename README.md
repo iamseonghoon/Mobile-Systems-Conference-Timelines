@@ -134,7 +134,7 @@ gantt
 | NSDI '26¹        | 2025-04-25         | ?                             | 2025-07-24          | [CFP](https://www.usenix.org/conference/nsdi26/call-for-papers) |
 | UbiComp '25³     | 2025-05-01         | None                          | 2025-07-01          | [CFP](https://www.ubicomp.org/ubicomp-iswc-2025/authors/) |
 | EuroSys '26¹     | 2025-05-15         | 2025-07-30 – 2025-08-01       | 2025-08-22          | [CFP](https://2026.eurosys.org/cfp.html#calls) |
-| CoNEXT '26²†     | 2025-07-14         | ?                             | 2025-09-12          | - |
+| CoNEXT '26²†     | 2025-07-14         | None (One-shot reivision for some) | 2025-09-12          | - |
 | INFOCOM '26†     | 2025-07-31         | None                          | 2025-12-06          | - |
 | ASPLOS '26²      | 2025-08-20         | 2025-11-10 – 2025-11-14       | 2025-11-24          | [CFP](https://www.asplos-conference.org/asplos2026/cfp/) |
 | MobiCom '26†     | 2025-08-29         | ?                             | 2025-12-10          | - |
@@ -145,7 +145,7 @@ gantt
 | UbiComp '26¹     | 2025-11-01         | None                          | 2026-01-01          | - |
 | SenSys '26†      | 2025-11-14         | ?                             | 2026-01-21          | - |
 | DAC '26†         | 2025-11-19         | ?                             | 2026-02-26          | - |
-| CoNEXT '26¹†     | 2025-12-05         | ?                             | 2026-04-04          | - |
+| CoNEXT '26¹†     | 2025-12-05         | None (One-shot reivision for some) | 2026-04-04          | - |
 | MobiSys '26†     | 2025-12-09         | 2026-02-13 – 2025-02-17       | 2026-03-07          | - |
 | PerCom '26†      | 2025-12-09         | None                          | 2026-02-24          | - |
 | OSDI '26†        | 2025-12-10         | 2026-03-06 – 2026-03-10       | 2026-03-25          | - |
