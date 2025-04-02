@@ -4,7 +4,7 @@ This document collects peer review timelines (from submission to final notificat
 \* Top conferences listed on [csrankings.org](https://csrankings.org).  
 † Estimated schedules based on prior years, as the official call for papers has not yet been released.
 
-## 📅 Gantt Chart (Submission–Final Notification)
+## 📅 Gantt Chart (Submission – Final Notification)
 ```mermaid
 %%{init: {'theme': 'neutral',
 'themeVariables': {
