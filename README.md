@@ -120,38 +120,38 @@ gantt
 
 ## 📅 Sorted by Submission Date (Ascending Order)
 
-| Conference       | Submission Date    | Author Response (Rebuttal) | Revision / Shepherding | Final Notification | CFP URL |
-|------------------|--------------------|-----------------------------|-------------------------|---------------------|---------|
-| ATC '25          | 2025-01-14         | 2025-04-07 – 2025-04-09     | ?                       | 2025-04-25          | [CFP](https://www.usenix.org/conference/atc25/call-for-papers) |
-| SIGCOMM '25      | 2025-01-31         | ?                           | ?                       | 2025-04-29          | [CFP](https://conferences.sigcomm.org/sigcomm/2025/cfp/) |
-| UbiComp '25²     | 2025-02-01         | -                           | -                       | 2025-04-01          | [CFP](https://www.ubicomp.org/ubicomp-iswc-2025/authors/) |
-| ASPLOS '26¹      | 2025-03-12         | 2025-06-09 – 2025-06-13     | 2025-06-24              | 2025-06-24          | - |
-| MobiCom '25      | 2025-03-18         | ?                           | ?                       | 2025-06-24          | [CFP](https://www.sigmobile.org/mobicom/2025/cfp.html) |
-| EMSOFT '25       | 2025-03-30         | -                           | ?                       | 2025-07-13          | [CFP](https://esweek.org/emsoft-call-for-papers-page/) |
-| MobiHoc '25      | 2025-04-09         | ?                           | ?                       | 2025-07-29          | [CFP](https://www.sigmobile.org/mobihoc/2025/cfp.html) |
-| MM '26           | 2025-04-11         | ?                           | ?                       | 2025-07-04          | - |
-| SOSP '25         | 2025-04-17         | ?                           | ?                       | 2025-07-15          | - |
-| NSDI '26¹        | 2025-04-25         | ?                           | ?                       | 2025-07-24          | [CFP](https://www.usenix.org/conference/nsdi26/call-for-papers) |
-| UbiComp '25³     | 2025-05-01         | ?                           | ?                       | 2025-07-01          | [CFP](https://www.ubicomp.org/ubicomp-iswc-2025/authors/) |
-| EuroSys '26¹     | 2025-05-15         | ?                           | ?                       | 2025-08-22          | - |
-| CoNEXT '26²      | 2025-07-14         | ?                           | ?                       | 2025-09-12          | - |
-| INFOCOM '26      | 2025-07-31         | ?                           | ?                       | 2025-12-06          | - |
-| ASPLOS '26²      | 2025-08-20         | ?                           | ?                       | 2025-11-24          | - |
-| MobiCom '26      | 2025-08-29         | ?                           | ?                       | 2025-12-10          | - |
-| NSDI '26²        | 2025-09-18         | ?                           | ?                       | 2025-12-09          | [CFP](https://www.usenix.org/conference/nsdi26/call-for-papers) |
-| EuroSys '26²     | 2025-09-25         | ?                           | ?                       | 2026-01-30          | - |
-| TheWebConf '26   | 2025-10-14         | ?                           | ?                       | 2025-12-20          | - |
-| MLSys '26        | 2025-10-31         | ?                           | ?                       | 2026-02-10          | - |
-| UbiComp '26¹     | 2025-11-01         | ?                           | -                       | 2026-01-01          | - |
-| SenSys '26       | 2025-11-14         | ?                           | ?                       | 2026-01-21          | - |
-| DAC '26          | 2025-11-19         | ?                           | ?                       | 2026-02-26          | - |
-| CoNEXT '26¹      | 2025-12-05         | ?                           | ?                       | 2026-04-04          | - |
-| MobiSys '26      | 2025-12-09         | 2026-02-13 – 2025-02-17     | ?                       | 2026-03-07          | - |
-| PerCom '26       | 2025-12-09         | ?                           | ?                       | 2026-02-24          | - |
-| OSDI '26         | 2025-12-10         | ?                           | ?                       | 2026-03-25          | - |
-| ICDCS '26        | 2025-12-18         | ?                           | ?                       | 2026-04-02          | - |
-| ATC '26          | 2026-01-14         | ?                           | ?                       | 2026-04-25          | - |
-| UbiComp '26²     | 2026-02-01         | ?                           | ?                       | 2026-04-02          | - |
+| Conference       | Submission Date    | Author Response / Rebuttal | Revision / Shepherding | Final Notification | CFP URL |
+|------------------|--------------------|-------------------------|-------------------------|---------------------|---------|
+| ATC '25          | 2025-01-14         | 2025-04-07 – 2025-04-09 | ?                       | 2025-04-25          | [CFP](https://www.usenix.org/conference/atc25/call-for-papers) |
+| SIGCOMM '25      | 2025-01-31         | ?                       | ?                       | 2025-04-29          | [CFP](https://conferences.sigcomm.org/sigcomm/2025/cfp/) |
+| UbiComp '25²     | 2025-02-01         | -                       | -                       | 2025-04-01          | [CFP](https://www.ubicomp.org/ubicomp-iswc-2025/authors/) |
+| ASPLOS '26¹      | 2025-03-12         | 2025-06-09 – 2025-06-13 | ?                       | 2025-06-24          | - |
+| MobiCom '25      | 2025-03-18         | ?                       | ?                       | 2025-06-24          | [CFP](https://www.sigmobile.org/mobicom/2025/cfp.html) |
+| EMSOFT '25       | 2025-03-30         | -                       | 2025-06-09 – 2025-06-13 | 2025-07-13          | [CFP](https://esweek.org/emsoft-call-for-papers-page/) |
+| MobiHoc '25      | 2025-04-09         | ?                       | ?                       | 2025-07-29          | [CFP](https://www.sigmobile.org/mobihoc/2025/cfp.html) |
+| MM '26           | 2025-04-11         | ?                       | ?                       | 2025-07-04          | - |
+| SOSP '25         | 2025-04-17         | ?                       | ?                       | 2025-07-15          | - |
+| NSDI '26¹        | 2025-04-25         | ?                       | ?                       | 2025-07-24          | [CFP](https://www.usenix.org/conference/nsdi26/call-for-papers) |
+| UbiComp '25³     | 2025-05-01         | ?                       | ?                       | 2025-07-01          | [CFP](https://www.ubicomp.org/ubicomp-iswc-2025/authors/) |
+| EuroSys '26¹     | 2025-05-15         | ?                       | ?                       | 2025-08-22          | - |
+| CoNEXT '26²†     | 2025-07-14         | ?                       | ?                       | 2025-09-12          | - |
+| INFOCOM '26†     | 2025-07-31         | ?                       | ?                       | 2025-12-06          | - |
+| ASPLOS '26²      | 2025-08-20         | ?                       | ?                       | 2025-11-24          | - |
+| MobiCom '26†     | 2025-08-29         | ?                       | ?                       | 2025-12-10          | - |
+| NSDI '26²        | 2025-09-18         | ?                       | ?                       | 2025-12-09          | [CFP](https://www.usenix.org/conference/nsdi26/call-for-papers) |
+| EuroSys '26²     | 2025-09-25         | ?                       | ?                       | 2026-01-30          | - |
+| TheWebConf '26†  | 2025-10-14         | ?                       | ?                       | 2025-12-20          | - |
+| MLSys '26†       | 2025-10-31         | ?                       | ?                       | 2026-02-10          | - |
+| UbiComp '26¹     | 2025-11-01         | ?                       | -                       | 2026-01-01          | - |
+| SenSys '26†      | 2025-11-14         | ?                       | ?                       | 2026-01-21          | - |
+| DAC '26†         | 2025-11-19         | ?                       | ?                       | 2026-02-26          | - |
+| CoNEXT '26¹†     | 2025-12-05         | ?                       | ?                       | 2026-04-04          | - |
+| MobiSys '26†     | 2025-12-09         | 2026-02-13 – 2025-02-17 | ?                       | 2026-03-07          | - |
+| PerCom '26†      | 2025-12-09         | ?                       | ?                       | 2026-02-24          | - |
+| OSDI '26         | 2025-12-10         | ?                       | ?                       | 2026-03-25          | - |
+| ICDCS '26†       | 2025-12-18         | ?                       | ?                       | 2026-04-02          | - |
+| ATC '26†         | 2026-01-14         | ?                       | ?                       | 2026-04-25          | - |
+| UbiComp '26²     | 2026-02-01         | ?                       | ?                       | 2026-04-02          | - |
 
 
 
