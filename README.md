@@ -1,10 +1,10 @@
-# Mobile-Systems-Conference-Timelines 📅
+# Mobile-Systems-Conference-Timelines
 This document collects peer review timelines (from submission to final notification) of top conferences directly related to mobile computing and systems, as well as related venues in areas such as computer networks, operating systems, and embedded systems.
 
 \* Top conferences listed on [csrankings.org](https://csrankings.org).  
 † Estimated schedules based on prior years, as the official call for papers has not yet been released.
 
-
+## 📅 Gantt Chart
 ```mermaid
 %%{init: {'theme': 'neutral',
 'themeVariables': {
@@ -117,8 +117,8 @@ gantt
 ```
 
 
-### 📅 Sorted by Submission Date (Ascending Order)
-### 📅 Sorted by Submission Date (Ascending Order)
+
+## 📅 Sorted by Submission Date (Ascending Order)
 
 | Conference       | Submission Date    | Author Response (Rebuttal) | Revision / Shepherding | Final Notification | CFP URL |
 |------------------|--------------------|-----------------------------|-------------------------|---------------------|---------|
