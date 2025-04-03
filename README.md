@@ -116,7 +116,9 @@ gantt
     MLSys '26† :mlsys26-review, 2025-10-31, 102d
 ```
 
-## 📅 Sorted by Submission Date (Ascending Order, 2025)
+## 📅 Sorted by Submission Date (Ascending Order)
+
+### 2025
 
 | Conference         | Submission Date      | Author Response / Rebuttal       | Final Notification | CFP URL |
 |------------------|--------------------|-------------------------------|---------------------|---------|
@@ -150,8 +152,7 @@ gantt
 | ICDCS '26†       | 2025-12-18         | None                          | 2026-04-02          | - |
 
 
-
-## 📅 Sorted by Submission Date (Ascending Order, 2026)
+### 2026
 | Conference         | Submission Date      | Author Response / Rebuttal       | Final Notification | CFP URL |
 |------------------|--------------------|-------------------------------|---------------------|---------|
 | ATC '26†         | 2026-01-14         | 2026-04-07 – 2026-04-09       | 2026-04-25          | - |
