@@ -153,6 +153,7 @@ gantt
 
 ## 📅 Sorted by Submission Date (Ascending Order, 2026)
 | Conference         | Submission Date      | Author Response / Rebuttal       | Final Notification | CFP URL |
+|------------------|--------------------|-------------------------------|---------------------|---------|
 | ATC '26†         | 2026-01-14         | 2026-04-07 – 2026-04-09       | 2026-04-25          | - |
 | UbiComp '26²     | 2026-02-01         | None                          | 2026-04-02          | - |
 
