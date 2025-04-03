@@ -116,9 +116,7 @@ gantt
     MLSys '26† :mlsys26-review, 2025-10-31, 102d
 ```
 
-
-
-## 📅 Sorted by Submission Date (Ascending Order)
+## 📅 Sorted by Submission Date (Ascending Order, 2025)
 
 | Conference         | Submission Date      | Author Response / Rebuttal       | Final Notification | CFP URL |
 |------------------|--------------------|-------------------------------|---------------------|---------|
@@ -150,6 +148,11 @@ gantt
 | PerCom '26†      | 2025-12-09         | None                          | 2026-02-24          | - |
 | OSDI '26†        | 2025-12-10         | 2026-03-06 – 2026-03-10       | 2026-03-25          | - |
 | ICDCS '26†       | 2025-12-18         | None                          | 2026-04-02          | - |
+
+
+
+## 📅 Sorted by Submission Date (Ascending Order, 2026)
+| Conference         | Submission Date      | Author Response / Rebuttal       | Final Notification | CFP URL |
 | ATC '26†         | 2026-01-14         | 2026-04-07 – 2026-04-09       | 2026-04-25          | - |
 | UbiComp '26²     | 2026-02-01         | None                          | 2026-04-02          | - |
 
