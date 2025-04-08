@@ -104,16 +104,26 @@ gantt
     TheWebConf '26† :thewebconf26-review, 2025-10-14, 98d
 
     %% --------------------------
+    %% ML
+    %% --------------------------
+    section MLSys
+    MLSys '26† :mlsys26-review, 2025-10-31, 102d
+
+    %% --------------------------
     %% Multimedia
     %% --------------------------
     section MM
     MM '26 :mm26-review, 2025-04-11, 84d
 
     %% --------------------------
-    %% ML
+    %% AR/VR
     %% --------------------------
-    section MLSys
-    MLSys '26† :mlsys26-review, 2025-10-31, 102d
+    section VR*
+    VR '26† :vr26-review, 2025-09-18, 117d
+
+    section ISMAR
+    ISMAR '25 :ismar25-review, 2025-04-11, 102d
+
 ```
 
 ## 📅 Sorted by Submission Date (Ascending Order)
@@ -129,6 +139,7 @@ gantt
 | MobiCom '25      | 2025-03-18         | ?                             | 2025-06-24          | [CFP](https://www.sigmobile.org/mobicom/2025/cfp.html) |
 | EMSOFT '25       | 2025-03-30         | 2025-05-18 – 2025-06-15 (Revision) | 2025-07-13     | [CFP](https://esweek.org/emsoft-call-for-papers-page/) |
 | MobiHoc '25      | 2025-04-09         | 2025-06-30 – 2025-07-06       | 2025-07-29          | [CFP](https://www.sigmobile.org/mobihoc/2025/cfp.html) |
+| ISMAR '25        | 2025-04-11         | 2025-06-03 – 2025-06-18 (Revision) | 2025-07-22          | [CFP](https://www.ieeeismar.net/2025/contribute/papers/) |
 | MM '26           | 2025-04-11         | 2025-06-09 – 2025-06-16       | 2025-07-04          | [CFP](https://acmmm2025.org/call-for-papers/) |
 | SOSP '25         | 2025-04-17         | 2025-07-03 – 2025-07-13       | 2025-07-15          | [CFP](https://sigops.org/s/conferences/sosp/2025/cfp.html) |
 | NSDI '26¹        | 2025-04-25         | ?                             | 2025-07-24          | [CFP](https://www.usenix.org/conference/nsdi26/call-for-papers) |
@@ -139,6 +150,7 @@ gantt
 | ASPLOS '26²      | 2025-08-20         | 2025-11-10 – 2025-11-14       | 2025-11-24          | [CFP](https://www.asplos-conference.org/asplos2026/cfp/) |
 | MobiCom '26†     | 2025-08-29         | ?                             | 2025-12-10          | - |
 | NSDI '26²        | 2025-09-18         | ?                             | 2025-12-09          | [CFP](https://www.usenix.org/conference/nsdi26/call-for-papers) |
+| VR '25†          | 2025-09-18         | 2025-12-10 – 2026-01-06 (Revision) | 2026-01-13          | - |
 | EuroSys '26²     | 2025-09-25         | 2026-01-07 – 2026-01-09       | 2026-01-30          | [CFP](https://2026.eurosys.org/cfp.html#calls) |
 | TheWebConf '26†  | 2025-10-14         | 2025-12-03 – 2025-12-14       | 2025-12-20          | - |
 | MLSys '26†       | 2025-10-31         | 2026-01-20 – 2026-01-27       | 2026-02-10          | - |
