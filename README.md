@@ -145,7 +145,7 @@ gantt
 | NSDI '26¹        | 2025-04-25         | ?                             | 2025-07-24          | [CFP](https://www.usenix.org/conference/nsdi26/call-for-papers) |
 | UbiComp '25³     | 2025-05-01         | None                          | 2025-07-01          | [CFP](https://www.ubicomp.org/ubicomp-iswc-2025/authors/) |
 | EuroSys '26¹     | 2025-05-15         | 2025-07-30 – 2025-08-01       | 2025-08-22          | [CFP](https://2026.eurosys.org/cfp.html#calls) |
-| CoNEXT '25²†     | 2025-06-05         | None (One-shot reivision for some) | 2025-09-15          | [CFP](https://conferences.sigcomm.org/co-next/2025/#!/cfp) |
+| CoNEXT '25²      | 2025-06-05         | None (One-shot reivision for some) | 2025-09-15          | [CFP](https://conferences.sigcomm.org/co-next/2025/#!/cfp) |
 | INFOCOM '26†     | 2025-07-31         | None                          | 2025-12-06          | - |
 | ASPLOS '26²      | 2025-08-20         | 2025-11-10 – 2025-11-14       | 2025-11-24          | [CFP](https://www.asplos-conference.org/asplos2026/cfp/) |
 | MobiCom '26†     | 2025-08-29         | ?                             | 2025-12-10          | - |
