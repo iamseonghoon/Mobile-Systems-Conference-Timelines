@@ -1,5 +1,5 @@
 # Mobile-Systems-Conference-Timelines
-This document collects peer review timelines (from submission to final notification) of top conferences directly related to mobile computing and systems, as well as top venues in adjacent areas such as computer networks, operating systems, and embedded systems.
+This document compiles peer review timelines (from submission to final notification) of top conferences directly related to mobile computing and systems, as well as top venues in adjacent areas, including computer networks, operating systems, and embedded systems.
 
 \* Top conferences listed on [csrankings.org](https://csrankings.org).  
 † Estimated schedules based on prior years, as the official call for papers has not yet been released.
@@ -33,7 +33,8 @@ gantt
     MobiSys '26† :mobisys26-review, 2025-12-09, 88d
 
     section SenSys*
-    SenSys '26† :sensys26-review, 2025-11-14, 68d
+    SenSys '26¹ :sensys26-review1, 2025-07-01, 83d
+    SenSys '26² :sensys26-review2, 2025-11-14, 77d
 
     section MobiHoc
     MobiHoc '25 :mobihoc25-review, 2025-04-09, 111d
@@ -90,6 +91,9 @@ gantt
     section EMSOFT*
     EMSOFT '25 :emsoft25-review, 2025-03-30, 105d
 
+    section RTAS*
+    RTAS '26 :rtas26-review, 2025-11-13, 77d
+
     section ICCAD*
     ICCAD '25 :iccad25-review, 2025-04-21, 71d
 
@@ -98,12 +102,6 @@ gantt
 
     section ICDCS
     ICDCS '26† :icdcs26-review, 2025-12-18, 105d
-
-    %% --------------------------
-    %% ML
-    %% --------------------------
-    section MLSys
-    MLSys '26† :mlsys26-review, 2025-10-31, 102d
 
     %% --------------------------
     %% Multimedia
@@ -134,15 +132,16 @@ gantt
 | UbiComp '25³     | 2025-05-01         | None                          | 2025-07-01          | [CFP](https://www.ubicomp.org/ubicomp-iswc-2025/authors/) |
 | EuroSys '26¹     | 2025-05-15         | 2025-07-30 – 2025-08-01       | 2025-08-22          | [CFP](https://2026.eurosys.org/cfp.html#calls) |
 | CoNEXT '25²      | 2025-06-05         | None (One-shot reivision for some) | 2025-09-15     | [CFP](https://conferences.sigcomm.org/co-next/2025/#!/cfp) |
+| SenSys '26¹      | 2025-07-01         | None                          | 2025-09-21          | [CFP](https://sensys.acm.org/2026/cfp.html) |
 | INFOCOM '26      | 2025-07-31         | None                          | 2025-12-08          | [CFP](https://infocom2026.ieee-infocom.org/call-papers) |
 | ASPLOS '26²      | 2025-08-20         | 2025-11-10 – 2025-11-14       | 2025-11-24          | [CFP](https://www.asplos-conference.org/asplos2026/cfp/) |
 | MobiCom '26¹     | 2025-09-03         | 2025-11-11 – 2025-11-14       | 2025-11-24          | [CFP](https://www.sigmobile.org/mobicom/2026/cfp.html) |
 | NSDI '26²        | 2025-09-18         | ?                             | 2025-12-09          | [CFP](https://www.usenix.org/conference/nsdi26/call-for-papers) |
 | PerCom '26       | 2025-09-19         | 2025-11-28 – 2025-12-05       | 2025-12-22          | [CFP](https://percom.org/call-for-papers/) |
 | EuroSys '26²     | 2025-09-25         | 2026-01-07 – 2026-01-09       | 2026-01-30          | [CFP](https://2026.eurosys.org/cfp.html#calls) |
-| MLSys '26†       | 2025-10-31         | 2026-01-20 – 2026-01-27       | 2026-02-10          | - |
 | UbiComp '26¹     | 2025-11-01         | None                          | 2026-01-01          | - |
-| SenSys '26†      | 2025-11-14         | None                          | 2026-01-21          | - |
+| SenSys '26²      | 2025-11-13         | None                          | 2026-01-29          | [CFP](https://sensys.acm.org/2026/cfp.html) |
+| RTAS '26         | 2025-11-13         | 2026-01-14 – 2026-01-18       | 2026-01-29          | [CFP](https://2026.rtas.org/index.html) |
 | DAC '26†         | 2025-11-19         | ?                             | 2026-02-26          | - |
 | CoNEXT '26¹†     | 2025-12-05         | None (One-shot reivision for some) | 2026-04-04     | - |
 | MobiSys '26†     | 2025-12-09         | 2026-02-13 – 2025-02-17       | 2026-03-07          | [CFP](https://www.sigmobile.org/mobisys/2026/call_for_papers/) |
