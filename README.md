@@ -111,7 +111,7 @@ gantt
     %% --------------------------
     section MM
     MM '26 :mm26-review, 2025-04-11, 84d
-
+```
 
 My go-to CS conference rankings:
 * [CSRankings](https://csrankings.org/)
