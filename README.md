@@ -12,7 +12,7 @@ for major venues in Mobile / Networking / Systems / Embedded / Multimedia.
 
 # 📊 Gantt Chart (2026–2027)
 
-mermaid
+```mermaid
 %%{init: {'theme': 'neutral',
 'themeVariables': {
       'fontSize': '18px'},
