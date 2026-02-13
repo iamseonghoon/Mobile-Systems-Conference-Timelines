@@ -1,4 +1,4 @@
-# 📱 Mobile Systems Conference Deadlines (2026–2027)
+# 📱 Mobile Systems Conference Deadlines (2025–2026)
 Peer review timelines (submission → final notification)  
 for major venues in Mobile / Networking / Systems / Embedded / Multimedia.
 
