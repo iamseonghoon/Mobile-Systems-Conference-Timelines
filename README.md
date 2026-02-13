@@ -23,7 +23,7 @@ for major venues in Mobile / Networking / Systems / Embedded / Multimedia.
 gantt
     dateFormat  YYYY-MM-DD
     tickInterval 1month
-    title Submission & Review Timelines (2025~2026)
+    title Submission & Review Deadlines (2026)
 
     %% --------------------------
     %% Mobile
@@ -33,19 +33,19 @@ gantt
     MobiCom '26¹ :mobicom26-review1, 2025-09-03, 82d
 
     section MobiSys*
-    MobiSys '26† :mobisys26-review, 2025-12-09, 88d
+    MobiSys '26 :mobisys26-review, 2025-12-05, 88d
 
     section SenSys*
     SenSys '26¹ :sensys26-review1, 2025-07-01, 83d
-    SenSys '26² :sensys26-review2, 2025-11-14, 77d
+    SenSys '26² :sensys26-review2, 2025-11-13, 77d
 
     section MobiHoc
-    MobiHoc '25 :mobihoc25-review, 2025-04-09, 111d
+    MobiHoc '25 :mobihoc25-review, 2025-04-06, 111d
 
     section UbiComp*
     UbiComp '25² :ubicomp25-review3, 2025-02-01, 61d
     UbiComp '25³ :ubicomp25-review2, 2025-05-01, 61d
-    UbiComp '26¹ :ubicomp25-review1, 2025-11-01, 61d
+    UbiComp '26¹ :ubicomp26-review1, 2025-11-01, 61d
     UbiComp '26² :ubicomp26-review3, 2026-02-01, 61d
 
     section PerCom
@@ -65,8 +65,8 @@ gantt
     INFOCOM '26 :infocom26-review, 2025-07-31, 130d
 
     section CoNEXT
-    CoNEXT '26¹† :conext26-review1, 2025-12-05, 120d
-    CoNEXT '25²† :conext25-review2, 2025-06-05, 103d
+    CoNEXT '26¹ :conext26-review1, 2025-12-12, 109d
+    CoNEXT '25² :conext25-review2, 2025-06-05, 103d
 
     %% --------------------------
     %% OS, CA
@@ -75,7 +75,7 @@ gantt
     SOSP '25 :sosp25-review, 2025-04-17, 89d
 
     section OSDI*
-    OSDI '26† :osdi26-review, 2025-12-10, 105d
+    OSDI '26 :osdi26-review, 2025-12-11, 105d
 
     section ASPLOS*
     ASPLOS '26¹ :asplos26-review1, 2025-03-12, 104d
@@ -101,7 +101,7 @@ gantt
     ICCAD '25 :iccad25-review, 2025-04-21, 71d
 
     section DAC*
-    DAC '26† :dac26-review, 2025-11-19, 99d
+    DAC '26 :dac26-review, 2025-11-19, 110d
 
     section ICDCS
     ICDCS '26† :icdcs26-review, 2025-12-18, 105d
