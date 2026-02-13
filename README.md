@@ -75,7 +75,7 @@ gantt
     SOSP '26 :sosp26-review, 2026-04-01, 93d
 
     section OSDI*
-    OSDI '28† :osdi28-review, 2027-12-11, 105d
+    OSDI '27† :osdi27-review, 2027-12-11, 106d
 
     section ASPLOS*
     ASPLOS '27¹ :asplos27-review1, 2026-04-15, 103d
@@ -135,7 +135,7 @@ gantt
 | CoNEXT '27¹† | 2026-12-12 | 2027-04-05 |  |
 | CoNEXT '26²† | 2026-06-05 | 2026-09-15 |  |
 | SOSP '26 | 2026-04-01 | 2026-07-03 | https://sigops.org/s/conferences/sosp/2026/cfp.html |
-| OSDI '28† | 2027-12-11 | 2028-03-25 |  |
+| OSDI '27† | 2026-12-11 | 2027-03-26 |  |
 | ASPLOS '27¹ | 2026-04-15 | 2026-07-27 | https://www.asplos-conference.org/asplos2026/cfp.html |
 | ASPLOS '27² | 2026-09-09 | 2026-12-21 | https://www.asplos-conference.org/asplos2026/cfp.html |
 | ATC '26† | 2026-01-14 | 2026-04-25 |  |
