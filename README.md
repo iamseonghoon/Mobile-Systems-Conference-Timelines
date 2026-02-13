@@ -112,7 +112,7 @@ gantt
     section MM
     MM '26 :mm26-review, 2025-04-11, 84d
 ```
----
-### My go-to CS conference rankings:
+
+**My go-to CS conference rankings:**
 * [CSRankings](https://csrankings.org/)
 * [Lists in South Korea](https://gist.github.com/Pusnow/6eb933355b5cb8d31ef1abcb3c3e1206)
