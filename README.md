@@ -75,7 +75,7 @@ gantt
     SOSP '26 :sosp26-review, 2026-04-01, 93d
 
     section OSDI*
-    OSDI '27† :osdi27-review, 2027-12-11, 106d
+    OSDI '27† :osdi27-review, 2026-12-11, 106d
 
     section ASPLOS*
     ASPLOS '27¹ :asplos27-review1, 2026-04-15, 103d
