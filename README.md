@@ -2,7 +2,6 @@
 Peer review timelines (submission → final notification)  
 for major venues in Mobile / Networking / Systems / Embedded / Multimedia.
 
-- `*` = Top conference ([CSRankings](https://csrankings.org/))
 - `†` = Estimated schedule
 - Duration = submission → final notification
 
@@ -28,21 +27,21 @@ gantt
     %% --------------------------
     %% Mobile
     %% --------------------------
-    section MobiCom*
+    section MobiCom
     MobiCom '26² :mobicom26-review2, 2026-03-13, 101d
     MobiCom '27¹† :mobicom27-review1, 2026-09-03, 82d
 
-    section MobiSys*
+    section MobiSys
     MobiSys '27† :mobisys27-review, 2026-12-05, 88d
 
-    section SenSys*
+    section SenSys
     SenSys '27¹† :sensys27-review1, 2026-07-01, 83d
     SenSys '27²† :sensys27-review2, 2026-11-14, 77d
 
     section MobiHoc
     MobiHoc '26 :mobihoc26-review, 2026-04-06, 139d
 
-    section UbiComp*
+    section UbiComp
     UbiComp '26² :ubicomp26-review3, 2026-02-01, 61d
     UbiComp '26³ :ubicomp26-review2, 2026-05-01, 61d
     UbiComp '27¹ :ubicomp27-review1, 2026-11-01, 61d
@@ -54,10 +53,10 @@ gantt
     %% --------------------------
     %% Network
     %% --------------------------
-    section SIGCOMM*
+    section SIGCOMM
     SIGCOMM '26 :sigcomm26-review, 2026-02-06, 94d
 
-    section NSDI*
+    section NSDI
     NSDI '27¹ :nsdi27-review1, 2026-04-23, 91d
     NSDI '27² :nsdi27-review2, 2026-09-17, 82d
 
@@ -71,36 +70,36 @@ gantt
     %% --------------------------
     %% OS, CA
     %% --------------------------
-    section SOSP*
+    section SOSP
     SOSP '26 :sosp26-review, 2026-04-01, 93d
 
-    section OSDI*
+    section OSDI
     OSDI '27† :osdi27-review, 2026-12-11, 106d
 
-    section ASPLOS*
+    section ASPLOS
     ASPLOS '27¹ :asplos27-review1, 2026-04-15, 103d
     ASPLOS '27² :asplos27-review2, 2026-09-09, 103d
 
     section ATC*
     ATC '26† :atc26-review, 2026-01-14, 101d
 
-    section EuroSys*
+    section EuroSys
     EuroSys '27¹† :eurosys27-review1, 2026-05-15, 99d
     EuroSys '27²† :eurosys27-review2, 2026-09-25, 127d
 
     %% --------------------------
     %% Embedded / EDA
     %% --------------------------
-    section EMSOFT*
+    section EMSOFT
     EMSOFT '26 :emsoft26-review, 2026-03-30, 109d
 
-    section RTAS*
+    section RTAS
     RTAS '27† :rtas27-review, 2026-11-13, 77d
 
-    section ICCAD*
+    section ICCAD
     ICCAD '26 :iccad26-review, 2026-04-14, 88d
 
-    section DAC*
+    section DAC
     DAC '27† :dac27-review, 2026-11-19, 99d
 
     section ICDCS
@@ -113,7 +112,7 @@ gantt
     MM '27 :mm27-review, 2026-04-01, 99d
 ```
 
-Note: Starting from 2026, ATC will be organized by ACM SIGOPS, and the updated CFP has not been released yet.
+\* Note: Starting from 2026, ATC will be organized by ACM SIGOPS, and the updated CFP has not been released yet.
 
 
 ### CFP Reference Table
