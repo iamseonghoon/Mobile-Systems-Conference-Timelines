@@ -113,6 +113,9 @@ gantt
     MM '27 :mm27-review, 2026-04-01, 99d
 ```
 
+Note: Starting from 2026, ATC will be organized by ACM SIGOPS, and the updated CFP has not been released yet.
+
+
 ### CFP Reference Table
 
 | Conference | Submission | Final Notification | CFP Link |
@@ -152,4 +155,4 @@ gantt
 
 ### My Go-To CS Conference Rankings
 * [CSRankings](https://csrankings.org/)
-* [Rankings in South Korea (KISSE/NRF BK21+/Universities)](https://gist.github.com/Pusnow/6eb933355b5cb8d31ef1abcb3c3e1206)
+* [Institutional Guidelines in South Korea (KIISE/NRF BK21+/Universities)](https://gist.github.com/Pusnow/6eb933355b5cb8d31ef1abcb3c3e1206)
