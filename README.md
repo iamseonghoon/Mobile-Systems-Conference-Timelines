@@ -1,6 +1,6 @@
 # 📱 Mobile Systems Conference Deadlines (2026)
 Peer review timelines (submission → final notification) for major venues in Mobile / Networking / Systems / Embedded / Multimedia.
-- `†`: Estimated schedule
+- `†`: Estimated schedule (CFP is not out yet)
 - Duration: submission → final notification
 - Last updated: 2026-02-13
 
