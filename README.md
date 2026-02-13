@@ -4,8 +4,7 @@ for major venues in Mobile / Networking / Systems / Embedded / Multimedia.
 
 - `†` = Estimated schedule
 - Duration = submission → final notification
-
-**Last updated:** 2026-02-13
+- Last updated: 2026-02-13
 
 ```mermaid
 %%{init: {'theme': 'neutral',
