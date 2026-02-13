@@ -29,90 +29,90 @@ gantt
     %% Mobile
     %% --------------------------
     section MobiCom*
-    MobiCom '25² :mobicom25-review2, 2025-03-18, 98d
-    MobiCom '26¹ :mobicom26-review1, 2025-09-03, 82d
+    MobiCom '26² :mobicom26-review2, 2026-03-13, 101d
+    MobiCom '27¹† :mobicom27-review1, 2026-09-03, 82d
 
     section MobiSys*
-    MobiSys '26 :mobisys26-review, 2025-12-05, 88d
+    MobiSys '27† :mobisys27-review, 2026-12-05, 88d
 
     section SenSys*
-    SenSys '26¹ :sensys26-review1, 2025-07-01, 83d
-    SenSys '26² :sensys26-review2, 2025-11-13, 77d
+    SenSys '27¹† :sensys27-review1, 2026-07-01, 83d
+    SenSys '27²† :sensys27-review2, 2026-11-14, 77d
 
     section MobiHoc
-    MobiHoc '25 :mobihoc25-review, 2025-04-06, 111d
+    MobiHoc '26 :mobihoc26-review, 2026-04-06, 139d
 
     section UbiComp*
-    UbiComp '25² :ubicomp25-review3, 2025-02-01, 61d
-    UbiComp '25³ :ubicomp25-review2, 2025-05-01, 61d
-    UbiComp '26¹ :ubicomp26-review1, 2025-11-01, 61d
     UbiComp '26² :ubicomp26-review3, 2026-02-01, 61d
+    UbiComp '26³ :ubicomp26-review2, 2026-05-01, 61d
+    UbiComp '27¹ :ubicomp27-review1, 2026-11-01, 61d
+    UbiComp '27² :ubicomp27-review2, 2027-02-01, 61d
 
     section PerCom
-    PerCom '26 :percom26-review, 2025-09-19, 95d
+    PerCom '27† :percom27-review, 2026-10-03, 80d
 
     %% --------------------------
     %% Network
     %% --------------------------
     section SIGCOMM*
-    SIGCOMM '25 :sigcomm25-review, 2025-01-31, 88d
+    SIGCOMM '26 :sigcomm26-review, 2026-02-06, 94d
 
     section NSDI*
-    NSDI '26¹ :nsdi26-review1, 2025-04-25, 90d
-    NSDI '26² :nsdi26-review2, 2025-09-18, 82d
+    NSDI '27¹ :nsdi27-review1, 2026-04-23, 91d
+    NSDI '27² :nsdi27-review2, 2026-09-17, 82d
 
     section INFOCOM
-    INFOCOM '26 :infocom26-review, 2025-07-31, 130d
+    INFOCOM '27† :infocom27-review, 2026-07-31, 130d
 
     section CoNEXT
-    CoNEXT '26¹ :conext26-review1, 2025-12-12, 109d
-    CoNEXT '25² :conext25-review2, 2025-06-05, 103d
+    CoNEXT '27¹† :conext27-review1, 2026-12-12, 109d
+    CoNEXT '26²† :conext26-review2, 2026-06-05, 103d
 
     %% --------------------------
     %% OS, CA
     %% --------------------------
     section SOSP*
-    SOSP '25 :sosp25-review, 2025-04-17, 89d
+    SOSP '26 :sosp26-review, 2026-04-01, 93d
 
     section OSDI*
-    OSDI '26 :osdi26-review, 2025-12-11, 105d
+    OSDI '28† :osdi28-review, 2027-12-11, 105d
 
     section ASPLOS*
-    ASPLOS '26¹ :asplos26-review1, 2025-03-12, 104d
-    ASPLOS '26² :asplos26-review2, 2025-08-20, 96d
+    ASPLOS '27¹ :asplos27-review1, 2026-04-15, 103d
+    ASPLOS '27² :asplos27-review2, 2026-09-09, 103d
 
     section ATC*
-    ATC '25 :atc25-review, 2025-01-14, 101d
+    ATC '26† :atc26-review, 2026-01-14, 101d
 
     section EuroSys*
-    EuroSys '26¹ :eurosys26-review1, 2025-05-15, 99d
-    EuroSys '26² :eurosys26-review2, 2025-09-25, 127d
+    EuroSys '27¹† :eurosys27-review1, 2026-05-15, 99d
+    EuroSys '27²† :eurosys27-review2, 2026-09-25, 127d
 
     %% --------------------------
     %% Embedded / EDA
     %% --------------------------
     section EMSOFT*
-    EMSOFT '25 :emsoft25-review, 2025-03-30, 105d
+    EMSOFT '26 :emsoft26-review, 2026-03-30, 109d
 
     section RTAS*
-    RTAS '26 :rtas26-review, 2025-11-13, 77d
+    RTAS '27† :rtas27-review, 2026-11-13, 77d
 
     section ICCAD*
-    ICCAD '25 :iccad25-review, 2025-04-21, 71d
+    ICCAD '26 :iccad26-review, 2026-04-14, 88d
 
     section DAC*
-    DAC '26 :dac26-review, 2025-11-19, 110d
+    DAC '27† :dac27-review, 2026-11-19, 99d
 
     section ICDCS
-    ICDCS '26† :icdcs26-review, 2025-12-18, 105d
+    ICDCS '27† :icdcs27-review, 2026-12-18, 105d
 
     %% --------------------------
     %% Multimedia
     %% --------------------------
     section MM
-    MM '26 :mm26-review, 2025-04-11, 84d
+    MM '27 :mm27-review, 2026-04-01, 99d
 ```
 
 **My go-to CS conference rankings:**
 * [CSRankings](https://csrankings.org/)
-* [Lists in South Korea](https://gist.github.com/Pusnow/6eb933355b5cb8d31ef1abcb3c3e1206)
+* [Rankings in South Korea (KISSE/NRF BK21+/Universities)](https://gist.github.com/Pusnow/6eb933355b5cb8d31ef1abcb3c3e1206)
