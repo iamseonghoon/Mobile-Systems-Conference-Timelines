@@ -1,4 +1,4 @@
-# 📱 Mobile Systems Conference Timelines (2026–2027)
+# 📱 Mobile Systems Conference Deadlines (2026–2027)
 Peer review timelines (submission → final notification)  
 for major venues in Mobile / Networking / Systems / Embedded / Multimedia.
 
@@ -7,10 +7,6 @@ for major venues in Mobile / Networking / Systems / Embedded / Multimedia.
 - Duration = submission → final notification
 
 **Last updated:** 2026-02-13
-
----
-
-# 📊 Gantt Chart (2026–2027)
 
 ```mermaid
 %%{init: {'theme': 'neutral',
