@@ -42,7 +42,6 @@ gantt
     UbiComp '26² :ubicomp26-review3, 2026-02-01, 61d
     UbiComp '26³ :ubicomp26-review2, 2026-05-01, 61d
     UbiComp '27¹ :ubicomp27-review1, 2026-11-01, 61d
-    UbiComp '27² :ubicomp27-review2, 2027-02-01, 61d
 
     section PerCom
     PerCom '27† :percom27-review, 2026-10-03, 80d
@@ -122,10 +121,9 @@ gantt
 | SenSys '27¹† | 2026-07-01 | 2026-09-20 |  |
 | SenSys '27²† | 2026-11-14 | 2027-01-29 |  |
 | MobiHoc '26 | 2026-04-06 | 2026-08-23 | https://www.sigmobile.org/mobihoc/2026/cfp.html |
-| UbiComp '26² | 2026-02-01 | 2026-04-02 | https://ubicomp.org/authors/ |
-| UbiComp '26³ | 2026-05-01 | 2026-07-02 | https://ubicomp.org/authors/ |
-| UbiComp '27¹ | 2026-11-01 | 2027-01-01 | https://ubicomp.org/authors/ |
-| UbiComp '27² | 2027-02-01 | 2027-04-02 | https://ubicomp.org/authors/ |
+| UbiComp '26² | 2026-02-01 | 2026-04-02 | https://dl.acm.org/journal/imwut/how-to-submit |
+| UbiComp '26³ | 2026-05-01 | 2026-07-02 | https://dl.acm.org/journal/imwut/how-to-submit
+| UbiComp '27¹ | 2026-11-01 | 2027-01-01 | https://dl.acm.org/journal/imwut/how-to-submit |
 | PerCom '27† | 2026-10-03 | 2026-12-22 |  |
 | SIGCOMM '26 | 2026-02-06 | 2026-05-11 | https://conferences.sigcomm.org/sigcomm/2026/cfp/ |
 | NSDI '27¹ | 2026-04-23 | 2026-07-23 | https://www.usenix.org/conference/nsdi27/call-for-papers |
