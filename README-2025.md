@@ -23,7 +23,7 @@ for major venues in Mobile / Networking / Systems / Embedded / Multimedia.
 gantt
     dateFormat  YYYY-MM-DD
     tickInterval 1month
-    title Submission & Review Timelines (2025~2026)
+    title Submission & Review Deadlines (2025)
 
     %% --------------------------
     %% Mobile
