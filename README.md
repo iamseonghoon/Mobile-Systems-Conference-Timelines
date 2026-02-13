@@ -2,8 +2,8 @@
 Peer review timelines (submission → final notification)  
 for major venues in Mobile / Networking / Systems / Embedded / Multimedia.
 
-- `†` = Estimated schedule
-- Duration = submission → final notification
+- `†`: Estimated schedule
+- Duration: submission → final notification
 - Last updated: 2026-02-13
 
 ```mermaid
