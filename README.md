@@ -32,7 +32,7 @@ gantt
     MobiSys '27* :mobisys27-review, 2026-12-05, 88d
 
     section SenSys
-    SenSys '27¹* :sensys27-review1, 2026-07-01, 83d
+    SenSys '27¹* :sensys27-review1, 2026-06-05, 85d
     SenSys '27²* :sensys27-review2, 2026-11-14, 77d
 
     section MobiHoc
@@ -127,8 +127,8 @@ gantt
 | MobiCom '26² | 2026-03-13 | 2026-06-22 | https://www.sigmobile.org/mobicom/2026/cfp.html |
 | MobiCom '27¹* | 2026-09-03 | 2026-11-24 |  |
 | MobiSys '27* | 2026-12-05 | 2027-03-05 | https://www.sigmobile.org/mobisys/2026/call_for_papers/ |
-| SenSys '27¹* | 2026-07-01 | 2026-09-20 |  |
-| SenSys '27²* | 2026-11-14 | 2027-01-29 |  |
+| SenSys '27¹* | 2026-06-05 | 2026-08-31 | https://sensys.acm.org/2027/cfp.html |
+| SenSys '27²* | 2026-11-14 | 2027-01-29 | https://sensys.acm.org/2027/cfp.html |
 | MobiHoc '26 | 2026-04-06 | 2026-08-23 | https://www.sigmobile.org/mobihoc/2026/cfp.html |
 | UbiComp '26² | 2026-02-01 | 2026-04-02 | https://dl.acm.org/journal/imwut/how-to-submit |
 | UbiComp '26³ | 2026-05-01 | 2026-07-02 | https://dl.acm.org/journal/imwut/how-to-submit
