@@ -47,6 +47,26 @@ gantt
     EMSOFT '26 :emsoft26-review, 2026-03-30, 109d
 
     %% --------------------------
+    %% Operating Systems
+    %% --------------------------
+    section SOSP
+    SOSP '26 :sosp26-review, 2026-04-01, 93d
+
+    section OSDI
+    OSDI '27* :osdi27-review, 2026-12-11, 106d
+
+    section ASPLOS
+    ASPLOS '27¹ :asplos27-review1, 2026-04-15, 103d
+    ASPLOS '27² :asplos27-review2, 2026-09-09, 103d
+
+    section EuroSys
+    EuroSys '27¹* :eurosys27-review1, 2026-05-15, 99d
+    EuroSys '27²* :eurosys27-review2, 2026-09-25, 127d
+
+    section ATC
+    ATC '26 :atc26-review, 2026-06-10, 100d
+
+    %% --------------------------
     %% Networking / Distributed Systems
     %% --------------------------
     section SIGCOMM
@@ -68,26 +88,6 @@ gantt
 
     section ICDCS
     ICDCS '27* :icdcs27-review, 2026-12-18, 105d
-
-    %% --------------------------
-    %% Operating Systems
-    %% --------------------------
-    section SOSP
-    SOSP '26 :sosp26-review, 2026-04-01, 93d
-
-    section OSDI
-    OSDI '27* :osdi27-review, 2026-12-11, 106d
-
-    section ASPLOS
-    ASPLOS '27¹ :asplos27-review1, 2026-04-15, 103d
-    ASPLOS '27² :asplos27-review2, 2026-09-09, 103d
-
-    section EuroSys
-    EuroSys '27¹* :eurosys27-review1, 2026-05-15, 99d
-    EuroSys '27²* :eurosys27-review2, 2026-09-25, 127d
-
-    section ATC
-    ATC '26 :atc26-review, 2026-06-10, 100d
 ```
 
 
