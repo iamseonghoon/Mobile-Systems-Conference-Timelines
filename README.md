@@ -35,11 +35,6 @@ gantt
     SenSys '27¹* :sensys27-review1, 2026-06-05, 85d
     SenSys '27²* :sensys27-review2, 2026-11-14, 77d
 
-    section UbiComp
-    UbiComp '26² :ubicomp26-review3, 2026-02-01, 61d
-    UbiComp '26³ :ubicomp26-review2, 2026-05-01, 61d
-    UbiComp '27¹ :ubicomp27-review1, 2026-11-01, 61d
-
     section PerCom
     PerCom '27* :percom27-review, 2026-10-03, 80d
 
@@ -101,11 +96,15 @@ gantt
 | MobiSys '27* | 2026-12-05 | 2027-03-05 | https://www.sigmobile.org/mobisys/2026/call_for_papers/ |
 | SenSys '27¹* | 2026-06-05 | 2026-08-31 | https://sensys.acm.org/2027/cfp.html |
 | SenSys '27²* | 2026-11-14 | 2027-01-29 | https://sensys.acm.org/2027/cfp.html |
-| UbiComp '26² | 2026-02-01 | 2026-04-02 | https://dl.acm.org/journal/imwut/how-to-submit |
-| UbiComp '26³ | 2026-05-01 | 2026-07-02 | https://dl.acm.org/journal/imwut/how-to-submit |
-| UbiComp '27¹ | 2026-11-01 | 2027-01-01 | https://dl.acm.org/journal/imwut/how-to-submit |
 | PerCom '27* | 2026-10-03 | 2026-12-22 |  |
 | EMSOFT '26 | 2026-03-30 | 2026-07-17 | https://esweek.org/emsoft_cfp/ |
+| SOSP '26 | 2026-04-01 | 2026-07-03 | https://sigops.org/s/conferences/sosp/2026/cfp.html |
+| OSDI '27* | 2026-12-11 | 2027-03-26 |  |
+| ASPLOS '27¹ | 2026-04-15 | 2026-07-27 | https://www.asplos-conference.org/asplos2026/cfp.html |
+| ASPLOS '27² | 2026-09-09 | 2026-12-21 | https://www.asplos-conference.org/asplos2026/cfp.html |
+| ATC '26 | 2026-06-10 | 2026-09-18 | https://sigops.org/s/conferences/atc/2026/cfp.html |
+| EuroSys '27¹* | 2026-05-15 | 2026-08-22 |  |
+| EuroSys '27²* | 2026-09-25 | 2027-01-30 |  |
 | SIGCOMM '26 | 2026-02-06 | 2026-05-11 | https://conferences.sigcomm.org/sigcomm/2026/cfp/ |
 | NSDI '27¹ | 2026-04-23 | 2026-07-23 | https://www.usenix.org/conference/nsdi27/call-for-papers |
 | NSDI '27² | 2026-09-17 | 2026-12-08 | https://www.usenix.org/conference/nsdi27/call-for-papers |
@@ -114,13 +113,6 @@ gantt
 | CoNEXT '27¹* | 2026-12-12 | 2027-03-31 |  |
 | MobiHoc '26 | 2026-04-06 | 2026-08-23 | https://www.sigmobile.org/mobihoc/2026/cfp.html |
 | ICDCS '27* | 2026-12-18 | 2027-04-02 |  |
-| SOSP '26 | 2026-04-01 | 2026-07-03 | https://sigops.org/s/conferences/sosp/2026/cfp.html |
-| OSDI '27* | 2026-12-11 | 2027-03-26 |  |
-| ASPLOS '27¹ | 2026-04-15 | 2026-07-27 | https://www.asplos-conference.org/asplos2026/cfp.html |
-| ASPLOS '27² | 2026-09-09 | 2026-12-21 | https://www.asplos-conference.org/asplos2026/cfp.html |
-| ATC '26 | 2026-06-10 | 2026-09-18 | https://sigops.org/s/conferences/atc/2026/cfp.html |
-| EuroSys '27¹* | 2026-05-15 | 2026-08-22 |  |
-| EuroSys '27²* | 2026-09-25 | 2027-01-30 |  |
 
 
 
